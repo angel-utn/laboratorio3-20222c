@@ -1,6 +1,6 @@
 1 - Las películas que tengan una duración mayor al promedio.
 
-2 - Las películas que tengan una duración mayor a la de cualquier película de género Terror.
+2 - Las películas que tengan una duración mayor a la de cualquier película de género Comedia.
 
 3 - Las salas que tengan una capacidad mayor a la de alguna sala 3D.
 

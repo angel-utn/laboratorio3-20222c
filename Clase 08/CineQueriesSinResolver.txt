@@ -1,0 +1,19 @@
+1 - Las películas que tengan una duración mayor al promedio.
+
+2 - Las películas que tengan una duración mayor a la de cualquier película de género Terror.
+
+3 - Las salas que tengan una capacidad mayor a la de alguna sala 3D.
+
+4 - Las películas que no hayan sido proyectadas en el año 2022.
+
+5 - Los clientes que no hayan ido a una función en los últimos 30 días.
+
+6 - Por cada cliente, la cantidad de películas en idioma castellano vistas y la cantidad de películas en otro idioma vistas.
+
+7 - Por cada película, la cantidad de funciones proyectadas en el año 2021 y la cantidad de funciones proyectadas en el año 2022.
+
+8 - Por cada película, el nombre de la película y el nombre de cada uno de los géneros separados por coma.
+
+9 - Los clientes que vieron más películas en idioma castellano que en otro idioma.
+
+10 - Las películas que fueron proyectadas menos en el 2022 que en el 2021 pero que al menos hayan sido proyectadas una vez en el 2022.

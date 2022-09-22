@@ -1,0 +1,1872 @@
+1
+
++------+
+|  ID  |
++------+
+|    2 |
+|    3 |
+|    4 |
+|    7 |
+|    8 |
+|   10 |
+|   11 |
+|   13 |
+|   16 |
+|   18 |
+|   22 |
+|   28 |
+|   31 |
+|   32 |
+|   33 |
+|   34 |
+|   35 |
+|   36 |
+|   37 |
+|   38 |
+|   39 |
+|   41 |
+|   44 |
+|   45 |
+|   46 |
+|   47 |
+|   48 |
+|   49 |
+|   51 |
+|   53 |
+|   55 |
+|   56 |
+|   57 |
+|   62 |
+|   65 |
+|   66 |
+|   68 |
+|   70 |
+|   74 |
+|   76 |
+|   77 |
+|   79 |
+|   80 |
+|   82 |
+|   86 |
+|   87 |
+|   89 |
+|   93 |
+|   94 |
+|   98 |
+|  101 |
+|  102 |
+|  103 |
+|  105 |
+|  107 |
+|  108 |
+|  110 |
+|  111 |
+|  113 |
+|  114 |
+|  117 |
+|  118 |
+|  121 |
+|  124 |
+|  127 |
+|  128 |
+|  129 |
+|  130 |
+|  131 |
+|  135 |
+|  136 |
+|  137 |
+|  138 |
+|  139 |
+|  140 |
+|  142 |
+|  144 |
+|  146 |
+|  148 |
+|  150 |
+|  151 |
+|  154 |
+|  158 |
+|  159 |
+|  160 |
+|  161 |
+|  163 |
+|  164 |
+|  165 |
+|  167 |
+|  170 |
+|  173 |
+|  174 |
+|  175 |
+|  177 |
+|  178 |
+|  181 |
+|  182 |
+|  184 |
+|  185 |
+|  188 |
+|  190 |
+|  191 |
+|  192 |
+|  194 |
+|  195 |
+|  196 |
+|  200 |
+|  202 |
+|  207 |
+|  209 |
+|  210 |
+|  211 |
+|  212 |
+|  213 |
+|  217 |
+|  218 |
+|  220 |
+|  221 |
+|  222 |
+|  223 |
+|  224 |
+|  229 |
+|  233 |
+|  235 |
+|  236 |
+|  237 |
+|  239 |
+|  245 |
+|  248 |
+|  250 |
+|  254 |
+|  255 |
+|  267 |
+|  268 |
+|  269 |
+|  272 |
+|  277 |
+|  279 |
+|  282 |
+|  283 |
+|  286 |
+|  289 |
+|  290 |
+|  292 |
+|  293 |
+|  294 |
+|  296 |
+|  297 |
+|  298 |
+|  301 |
+|  302 |
+|  304 |
+|  305 |
+|  306 |
+|  309 |
+|  313 |
+|  314 |
+|  317 |
+|  319 |
+|  324 |
+|  325 |
+|  326 |
+|  328 |
+|  329 |
+|  332 |
+|  335 |
+|  340 |
+|  343 |
+|  345 |
+|  346 |
+|  347 |
+|  348 |
+|  350 |
+|  351 |
+|  353 |
+|  354 |
+|  355 |
+|  357 |
+|  358 |
+|  361 |
+|  362 |
+|  366 |
+|  368 |
+|  369 |
+|  371 |
+|  374 |
+|  375 |
+|  377 |
+|  379 |
+|  382 |
+|  384 |
+|  386 |
+|  388 |
+|  389 |
+|  391 |
+|  393 |
+|  394 |
+|  395 |
+|  397 |
+|  398 |
+|  400 |
+|  401 |
+|  406 |
+|  409 |
+|  411 |
+|  413 |
+|  415 |
+|  416 |
+|  418 |
+|  423 |
+|  426 |
+|  427 |
+|  429 |
+|  432 |
+|  438 |
+|  441 |
+|  445 |
+|  446 |
+|  448 |
+|  453 |
+|  458 |
+|  472 |
+|  476 |
+|  477 |
+|  481 |
+|  482 |
+|  483 |
+|  484 |
+|  485 |
+|  487 |
+|  488 |
+|  495 |
+|  496 |
+|  498 |
+|  499 |
+|  504 |
+|  506 |
+|  513 |
+|  514 |
+|  516 |
+|  520 |
+|  523 |
+|  526 |
+|  528 |
+|  529 |
+|  540 |
+|  544 |
+|  550 |
+|  553 |
+|  556 |
+|  557 |
+|  558 |
+|  560 |
+|  561 |
+|  563 |
+|  564 |
+|  565 |
+|  566 |
+|  567 |
+|  569 |
+|  572 |
+|  575 |
+|  579 |
+|  583 |
+|  584 |
+|  586 |
+|  587 |
+|  589 |
+|  594 |
+|  596 |
+|  603 |
+|  605 |
+|  606 |
+|  607 |
+|  609 |
+|  611 |
+|  613 |
+|  615 |
+|  617 |
+|  619 |
+|  625 |
+|  629 |
+|  633 |
+|  637 |
+|  638 |
+|  639 |
+|  641 |
+|  643 |
+|  644 |
+|  651 |
+|  652 |
+|  657 |
+|  658 |
+|  661 |
+|  667 |
+|  669 |
+|  670 |
+|  671 |
+|  672 |
+|  676 |
+|  678 |
+|  681 |
+|  684 |
+|  685 |
+|  686 |
+|  689 |
+|  692 |
+|  694 |
+|  695 |
+|  696 |
+|  699 |
+|  702 |
+|  703 |
+|  705 |
+|  706 |
+|  711 |
+|  713 |
+|  714 |
+|  720 |
+|  725 |
+|  728 |
+|  732 |
+|  733 |
+|  735 |
+|  739 |
+|  741 |
+|  742 |
+|  743 |
+|  745 |
+|  746 |
+|  747 |
+|  749 |
+|  750 |
+|  751 |
+|  753 |
+|  754 |
+|  755 |
+|  759 |
+|  760 |
+|  761 |
+|  762 |
+|  764 |
+|  766 |
+|  767 |
+|  768 |
+|  769 |
+|  771 |
+|  774 |
+|  775 |
+|  779 |
+|  784 |
+|  785 |
+|  786 |
+|  788 |
+|  789 |
+|  791 |
+|  793 |
+|  796 |
+|  799 |
+|  800 |
+|  801 |
+|  802 |
+|  804 |
+|  807 |
+|  810 |
+|  811 |
+|  812 |
+|  813 |
+|  814 |
+|  815 |
+|  816 |
+|  820 |
+|  822 |
+|  824 |
+|  825 |
+|  827 |
+|  828 |
+|  830 |
+|  832 |
+|  837 |
+|  838 |
+|  840 |
+|  841 |
+|  844 |
+|  847 |
+|  849 |
+|  853 |
+|  855 |
+|  856 |
+|  859 |
+|  861 |
+|  862 |
+|  863 |
+|  865 |
+|  868 |
+|  870 |
+|  871 |
+|  872 |
+|  873 |
+|  875 |
+|  878 |
+|  879 |
+|  880 |
+|  881 |
+|  885 |
+|  889 |
+|  890 |
+|  891 |
+|  892 |
+|  893 |
+|  901 |
+|  903 |
+|  905 |
+|  907 |
+|  909 |
+|  910 |
+|  912 |
+|  913 |
+|  915 |
+|  916 |
+|  921 |
+|  923 |
+|  925 |
+|  926 |
+|  929 |
+|  930 |
+|  934 |
+|  936 |
+|  937 |
+|  938 |
+|  939 |
+|  940 |
+|  941 |
+|  944 |
+|  947 |
+|  948 |
+|  951 |
+|  952 |
+|  953 |
+|  958 |
+|  960 |
+|  961 |
+|  968 |
+|  970 |
+|  971 |
+|  972 |
+|  973 |
+|  976 |
+|  978 |
+|  981 |
+|  982 |
+|  983 |
+|  985 |
+|  986 |
+|  987 |
+|  988 |
+|  989 |
+|  990 |
+|  992 |
+|  993 |
+|  995 |
+|  999 |
+| 1000 |
++------+
+
+2
+
++--------------------+----------+
+|    Descripcion     |  Costo   |
++--------------------+----------+
+| Biblioteca Kloster | 34000,00 |
+| Banco Kloster      | 38000,00 |
++--------------------+----------+
+
+3
+
++-----+-----------+-----------+-----------------------------------+--------------+--------------+-------------+--------+
+| ID  | Apellidos |  Nombres  |               Mail                |   Telefono   |   Celular    | RegistroWeb | Estado |
++-----+-----------+-----------+-----------------------------------+--------------+--------------+-------------+--------+
+| 101 | Simon     | Angel     | asimon@docentes.frgp.utn.edu.ar   | NULL         | 444-618-8458 |           1 |      1 |
+|  47 | Clunie    | Rayner    | rclunie1a@linkedin.com            | 168-593-0325 | 330-244-1559 |           1 |      0 |
+|  22 | Hucks     | Marlo     | NULL                              | NULL         | 314-497-0283 |           0 |      0 |
+|  33 | Foggo     | Carry     | cfoggow@yale.edu                  | 248-833-6803 | NULL         |           1 |      0 |
+| 102 | Lara      | Brian     | blara@docentes.frgp.utn.edu.ar    | NULL         | 455-618-8458 |           1 |      1 |
+|  71 | Skipper   | Devland   | dskipper1y@networkadvertising.org | NULL         | 103-354-9438 |           0 |      0 |
+| 103 | Kloster   | Daniel    | dkloster@docentes.frgp.utn.edu.ar | NULL         | 466-618-8458 |           1 |      1 |
+|   8 | Davion    | Reginauld | rdavion7@huffingtonpost.com       | NULL         | 837-669-5736 |           0 |      1 |
++-----+-----------+-----------+-----------------------------------+--------------+--------------+-------------+--------+
+
+4
+
+
++-------------+----------+
+|  Apellidos  | Nombres  |
++-------------+----------+
+| De Filippis | Rhodia   |
+| Dallas      | Ramsay   |
+| MacGorrie   | Datha    |
+| Mumbey      | Darda    |
+| Cobello     | Webb     |
+| Hurrion     | Niven    |
+| Stutter     | Kelcey   |
+| Snowball    | Deanne   |
+| Dominy      | Abram    |
+| Jonah       | Dirk     |
+| Aburrow     | My       |
+| Stoll       | Kristan  |
+| Pedrollo    | Jay      |
+| Deackes     | Dorthea  |
+| Gianulli    | Tawsha   |
+| Gigg        | Saunder  |
+| Imesson     | Barde    |
+| Oxby        | Adina    |
+| Hatto       | Giovanni |
+| Goodworker  | Juan     |
+| Lazyman     | John     |
++-------------+----------+
+
+5
+
++-----------+----------+
+| Apellidos | Nombres  |
++-----------+----------+
+| Sollom    | Minetta  |
+| Inchley   | Melessa  |
+| Dallison  | Aguistin |
+| O'Scanlan | Orin     |
+| Letch     | Candy    |
+| Taplin    | Kym      |
+| Lawrey    | Dickie   |
++-----------+----------+
+
+6
+
++--------+-------------+----------+------------------+-----------+-----------------+------------+
+| Legajo |  Apellidos  | Nombres  | ModalidadTrabajo |  Sueldo   | FechaNacimiento | AñoIngreso |
++--------+-------------+----------+------------------+-----------+-----------------+------------+
+|      1 | De Filippis | Rhodia   | F                |  54704,00 | 1955-12-02      |       2020 |
+|      2 | Dallas      | Ramsay   | P                | 233521,00 | 1980-04-29      |       2020 |
+|      4 | Mumbey      | Darda    | P                |  87944,00 | 1981-07-17      |       2020 |
+|      6 | Hurrion     | Niven    | P                | 294564,00 | 1974-03-07      |       2019 |
+|      8 | Snowball    | Deanne   | P                | 103986,00 | 1952-01-04      |       2017 |
+|      9 | Dominy      | Abram    | P                |  82350,00 | 1973-04-29      |       2018 |
+|     10 | Jonah       | Dirk     | F                | 190565,00 | 1988-05-05      |       2022 |
+|     11 | Aburrow     | My       | P                | 186507,00 | 1962-12-14      |       2015 |
+|     12 | Stoll       | Kristan  | P                | 118636,00 | 1973-07-14      |       2020 |
+|     13 | Pedrollo    | Jay      | P                | 234967,00 | 1983-03-04      |       2016 |
+|     15 | Gianulli    | Tawsha   | F                | 242815,00 | 1996-05-01      |       2017 |
+|     16 | Gigg        | Saunder  | F                | 266930,00 | 1997-11-12      |       2021 |
+|     17 | Imesson     | Barde    | P                | 152892,00 | 1987-10-15      |       2020 |
+|     18 | Oxby        | Adina    | F                | 142611,00 | 1966-03-15      |       2017 |
+|     19 | Hatto       | Giovanni | F                | 242692,00 | 1980-01-19      |       2016 |
+|     20 | Goodworker  | Juan     | F                | 225319,00 | 1994-03-08      |       2020 |
++--------+-------------+----------+------------------+-----------+-----------------+------------+
+
+7
+
++------------------------+--------------+--------------+
+|      Descripcion       | CantFullTime | CantPartTime |
++------------------------+--------------+--------------+
+| Silla Paris            |            2 |            5 |
+| Silla Roma             |            7 |            7 |
+| Silla Londres          |            9 |            8 |
+| Silla Nueva York       |            6 |            9 |
+| Silla Tokio            |            9 |            4 |
+| Silla Kloster          |            5 |            6 |
+| Mesa Paris             |            7 |            6 |
+| Mesa Roma              |            5 |            5 |
+| Mesa Londres           |            7 |            6 |
+| Mesa Nueva York        |            7 |            6 |
+| Mesa Tokio             |            6 |            8 |
+| Mesa Kloster           |            4 |            5 |
+| Mesa de luz Paris      |            7 |            4 |
+| Mesa de luz Roma       |            5 |            6 |
+| Mesa de luz Londres    |            5 |           10 |
+| Mesa de luz Nueva York |            7 |            7 |
+| Mesa de luz Tokio      |            4 |            6 |
+| Mesa de luz Kloster    |            9 |            7 |
+| Silla Paris            |            8 |            8 |
+| Silla Roma             |            8 |            6 |
+| Silla Londres          |            7 |            8 |
+| Silla Nueva York       |            5 |            6 |
+| Silla Tokio            |            7 |            9 |
+| Silla Kloster          |            3 |            6 |
+| Escritorio Paris       |            4 |            8 |
+| Escritorio Roma        |            5 |            3 |
+| Escritorio Londres     |            4 |            7 |
+| Escritorio Nueva York  |            7 |            5 |
+| Escritorio Tokio       |            5 |            6 |
+| Escritorio Kloster     |            7 |            9 |
+| Cama Paris             |            4 |            2 |
+| Cama Roma              |            6 |            4 |
+| Cama Londres           |            4 |            5 |
+| Cama Nueva York        |            6 |            7 |
+| Cama Tokio             |            5 |            6 |
+| Cama Kloster           |            7 |           10 |
+| Comoda Paris           |            7 |            8 |
+| Comoda Roma            |            4 |            9 |
+| Comoda Londres         |            6 |            8 |
+| Comoda Nueva York      |            3 |            4 |
+| Comoda Tokio           |            3 |            6 |
+| Comoda Kloster         |            5 |            5 |
+| Biblioteca Paris       |            7 |            9 |
+| Biblioteca Roma        |            7 |            6 |
+| Biblioteca Londres     |            7 |            7 |
+| Biblioteca Nueva York  |            5 |            6 |
+| Biblioteca Tokio       |            2 |            7 |
+| Biblioteca Kloster     |            6 |            8 |
+| Banco Paris            |            8 |            4 |
+| Banco Roma             |            6 |            6 |
+| Banco Londres          |            4 |            6 |
+| Banco Nueva York       |            6 |            6 |
+| Banco Kloster          |            7 |            7 |
+| Banco Tokio            |            4 |           10 |
++------------------------+--------------+--------------+
+
+8
+
++----+------------------------+--------------+----------------+
+| ID |      Descripcion       | CantEnviados | CantNoEnviados |
++----+------------------------+--------------+----------------+
+|  1 | Silla Paris            |            0 |             10 |
+|  2 | Silla Roma             |            2 |             23 |
+|  3 | Silla Londres          |            3 |             22 |
+|  4 | Silla Nueva York       |            3 |             17 |
+|  5 | Silla Tokio            |            6 |             12 |
+|  6 | Silla Kloster          |            1 |             11 |
+|  7 | Mesa Paris             |            3 |             15 |
+|  8 | Mesa Roma              |            2 |             12 |
+|  9 | Mesa Londres           |            4 |             20 |
+| 10 | Mesa Nueva York        |            4 |             14 |
+| 11 | Mesa Tokio             |            0 |             16 |
+| 12 | Mesa Kloster           |            2 |             12 |
+| 13 | Mesa de luz Paris      |            4 |             10 |
+| 14 | Mesa de luz Roma       |            4 |             15 |
+| 15 | Mesa de luz Londres    |            1 |             26 |
+| 16 | Mesa de luz Nueva York |            4 |              8 |
+| 17 | Mesa de luz Tokio      |            2 |             14 |
+| 18 | Mesa de luz Kloster    |            1 |             17 |
+| 19 | Silla Paris            |            4 |             19 |
+| 20 | Silla Roma             |            1 |             22 |
+| 21 | Silla Londres          |            2 |             18 |
+| 22 | Silla Nueva York       |            1 |             16 |
+| 23 | Silla Tokio            |            3 |             12 |
+| 24 | Silla Kloster          |            3 |             12 |
+| 25 | Escritorio Paris       |            2 |             20 |
+| 26 | Escritorio Roma        |            0 |             13 |
+| 27 | Escritorio Londres     |            5 |             21 |
+| 28 | Escritorio Nueva York  |            2 |             15 |
+| 29 | Escritorio Tokio       |            6 |             13 |
+| 30 | Escritorio Kloster     |            5 |             19 |
+| 31 | Cama Paris             |            1 |             13 |
+| 32 | Cama Roma              |            3 |             19 |
+| 33 | Cama Londres           |            3 |              5 |
+| 34 | Cama Nueva York        |            3 |             16 |
+| 35 | Cama Tokio             |            0 |             20 |
+| 36 | Cama Kloster           |            2 |             20 |
+| 37 | Comoda Paris           |            3 |             13 |
+| 38 | Comoda Roma            |            4 |             18 |
+| 39 | Comoda Londres         |            1 |             23 |
+| 40 | Comoda Nueva York      |            2 |             12 |
+| 41 | Comoda Tokio           |            1 |             13 |
+| 42 | Comoda Kloster         |            6 |              5 |
+| 43 | Biblioteca Paris       |            0 |             21 |
+| 44 | Biblioteca Roma        |            2 |             19 |
+| 45 | Biblioteca Londres     |            5 |             12 |
+| 46 | Biblioteca Nueva York  |            2 |             15 |
+| 47 | Biblioteca Tokio       |            1 |             12 |
+| 48 | Biblioteca Kloster     |            3 |             13 |
+| 49 | Banco Paris            |            2 |             12 |
+| 50 | Banco Roma             |            3 |             19 |
+| 51 | Banco Londres          |            3 |             15 |
+| 52 | Banco Nueva York       |            1 |             22 |
+| 53 | Banco Kloster          |            2 |             20 |
+| 54 | Banco Tokio            |            5 |             31 |
++----+------------------------+--------------+----------------+
+
+9
+
++-------------+------------+----------+----------+----------+
+|  Apellidos  |  Nombres   | Cant2020 | Cant2021 | Cant2022 |
++-------------+------------+----------+----------+----------+
+| Cavey       | Archer     |        2 |        2 |        4 |
+| Pountain    | Evaleen    |        4 |        5 |        6 |
+| Gulley      | Leticia    |        0 |        7 |        5 |
+| Riseborough | Ly         |        5 |        7 |        2 |
+| Blazewski   | Richy      |        2 |        7 |        1 |
+| Sreenan     | Kellsie    |        5 |        3 |        3 |
+| Gealle      | Darryl     |        8 |        7 |        3 |
+| Davion      | Reginauld  |        4 |        2 |        0 |
+| Crinidge    | Blakelee   |        2 |        2 |        6 |
+| Toner       | Fina       |        3 |        5 |        1 |
+| Boldra      | Franklin   |        6 |        4 |        4 |
+| Sebrens     | Tallou     |        3 |        5 |        1 |
+| Tollerfield | Cash       |        3 |        3 |        3 |
+| Rowling     | Esme       |        3 |        3 |        3 |
+| Dunnico     | Devin      |        5 |        6 |        2 |
+| Quaife      | Elsey      |        1 |        4 |        2 |
+| Roffe       | Blaire     |        3 |        3 |        3 |
+| Kersley     | Sayre      |        2 |        3 |        4 |
+| Hewkin      | Gilles     |        4 |        4 |        3 |
+| Kellegher   | Penn       |        2 |        2 |        5 |
+| Pauli       | Sebastian  |        2 |        0 |        3 |
+| Hucks       | Marlo      |        2 |        7 |        0 |
+| Vedntyev    | Joete      |        2 |        4 |        1 |
+| Chadbourn   | Luis       |        3 |        6 |        1 |
+| Dyble       | Manuel     |        6 |        7 |        2 |
+| Louis       | Dave       |        5 |        9 |        3 |
+| Sollom      | Minetta    |        4 |        3 |        2 |
+| Labbati     | Eugenia    |        1 |        3 |        2 |
+| Thrush      | Calley     |        3 |        3 |        3 |
+| Braffington | Mariquilla |        2 |        2 |        3 |
+| Ruppel      | Roze       |        4 |        3 |        4 |
+| Inchley     | Melessa    |        4 |        5 |        2 |
+| Foggo       | Carry      |        1 |        2 |        0 |
+| Horrell     | Ailey      |        6 |        5 |        4 |
+| Congram     | Fancie     |        3 |        1 |        4 |
+| Alenshev    | Roger      |        2 |        4 |        4 |
+| Demkowicz   | Julianna   |        5 |        4 |        2 |
+| Billinge    | Adams      |        2 |        7 |        2 |
+| Ponsford    | Frasco     |        3 |        1 |        1 |
+| Dallison    | Aguistin   |        2 |        3 |        3 |
+| Moakson     | Dedra      |        2 |        7 |        2 |
+| O'Scanlan   | Orin       |        8 |        4 |        1 |
+| McGeouch    | Jehu       |        6 |        5 |        4 |
+| Fishly      | Jaymie     |        3 |        7 |        6 |
+| Robatham    | Avril      |        2 |        4 |        2 |
+| Ferrelli    | Brooke     |        1 |        4 |        4 |
+| Clunie      | Rayner     |        3 |        4 |        0 |
+| Peddie      | Joanie     |        5 |        4 |        3 |
+| Effnert     | Hamilton   |        3 |        6 |        1 |
+| Casajuana   | Bennett    |        3 |        5 |        4 |
+| Dunkley     | Karmen     |        5 |        1 |        2 |
+| Charlewood  | Minna      |        2 |        4 |        5 |
+| Gehrels     | Cristabel  |        2 |        5 |        2 |
+| Inchbald    | Conrado    |        1 |        5 |        2 |
+| Skones      | Deanna     |        1 |        8 |        2 |
+| Soles       | Alphonso   |        1 |        6 |        3 |
+| Grocott     | Brittani   |        3 |        2 |        3 |
+| Sreenan     | Brade      |        0 |        1 |        2 |
+| Widmoor     | Stacy      |        0 |        3 |        4 |
+| Clarabut    | May        |        3 |        4 |        1 |
+| Herche      | Rhianon    |        3 |        3 |        4 |
+| Hupe        | Tully      |        2 |        0 |        2 |
+| Bowich      | Ferd       |        5 |        4 |        9 |
+| Letch       | Candy      |        1 |        3 |        2 |
+| Dowry       | Abbey      |        2 |        3 |        1 |
+| Dwire       | Celestyna  |        1 |       11 |        2 |
+| Shury       | Craggie    |        3 |        3 |        2 |
+| Taplin      | Kym        |        0 |        4 |        2 |
+| Masham      | Howey      |        5 |        6 |        4 |
+| Stebbings   | Reese      |        3 |        3 |        6 |
+| Skipper     | Devland    |        3 |        2 |        0 |
+| Rushford    | Fanny      |        5 |        5 |        4 |
+| Shilston    | Normy      |        3 |        4 |        2 |
+| Brosoli     | Delbert    |        4 |        2 |        4 |
+| Royden      | Nat        |        3 |        3 |        4 |
+| Edlin       | Hillel     |        3 |        6 |        1 |
+| Terzi       | Mychal     |        4 |        5 |        3 |
+| O'Bradden   | Joyan      |        0 |        4 |        3 |
+| Baumford    | Eunice     |        5 |        2 |        3 |
+| Sans        | Kirbee     |        6 |        3 |        1 |
+| Mateu       | Raf        |        1 |        1 |        2 |
+| Dicty       | Florella   |        2 |        5 |        1 |
+| Cleife      | Roxane     |        4 |        1 |        5 |
+| Harms       | Vail       |        6 |        5 |        4 |
+| Petherick   | Dana       |        3 |        2 |        3 |
+| Sedgwick    | Sandi      |        0 |        6 |        2 |
+| Boddymead   | Greta      |        3 |        4 |        4 |
+| Astill      | Adriano    |        4 |        5 |        4 |
+| Deedes      | Cam        |        2 |        6 |        2 |
+| Prebble     | Lisa       |       10 |        1 |        4 |
+| Corradini   | Natala     |        4 |        1 |        3 |
+| Pencost     | Yanaton    |        6 |        3 |        3 |
+| Lawrey      | Dickie     |        4 |        5 |        3 |
+| MacRannell  | Johnathon  |        2 |        3 |        6 |
+| Gueste      | Munroe     |        5 |        3 |        1 |
+| Phillp      | Hilary     |        3 |        5 |        3 |
+| Dines       | Annmarie   |        2 |        4 |        3 |
+| Senior      | Ev         |        3 |        4 |        6 |
+| Kybbye      | Jaquelin   |        2 |        5 |        4 |
+| Bertie      | Corey      |        7 |        1 |        3 |
+| Simon       | Angel      |        0 |        0 |        0 |
+| Lara        | Brian      |        0 |        0 |        0 |
+| Kloster     | Daniel     |        0 |        0 |        0 |
++-------------+------------+----------+----------+----------+
+
+10
+
++------------------------+----------+---------------------------------------------------------------------------------+
+|      Descripcion       |  Costo   |                                   Materiales                                    |
++------------------------+----------+---------------------------------------------------------------------------------+
+| Silla Paris            |  2500,00 | Pino,Laurel,Fresno,Olivo,Plástico,Cuero                                         |
+| Silla Roma             |  5000,00 | Pinotea,Cerezo,Olmo,Plástico,Vidrio,Plata                                       |
+| Silla Londres          |  5500,00 | Pino,Guatambú,Cedro,Laurel,Nogal,Cerezo,Olivo,Bronce,Cuero                      |
+| Silla Nueva York       |  7500,00 | Cedro,Haya,Cerezo,Olmo,Plástico                                                 |
+| Silla Tokio            |  3750,00 | Guatambú,Melamina,Roble,Laurel,Haya,Vidrio,Bronce,Plata                         |
+| Silla Kloster          | 10000,00 | Haya,Nogal,Cerezo,Olivo,Vidrio,Plata                                            |
+| Mesa Paris             |  3500,00 | Cedro,Olmo,Plástico,Vidrio,Cuero                                                |
+| Mesa Roma              |  7000,00 | Pino,Guatambú,Melamina,Haya,Nogal,Plástico,Vidrio                               |
+| Mesa Londres           |  7700,00 | Roble,Cedro,Laurel,Olivo                                                        |
+| Mesa Nueva York        | 10500,00 | Pino,Guatambú,Melamina,Laurel,Haya,Fresno,Olmo,Plástico,Vidrio,Plata,Cuero      |
+| Mesa Tokio             |  5250,00 | Pino,Pinotea,Laurel,Fresno,Olivo,Plástico,Plata                                 |
+| Mesa Kloster           | 14000,00 | Roble,Vidrio                                                                    |
+| Mesa de luz Paris      |  1500,00 | Pinotea,Haya,Nogal,Fresno,Cuero                                                 |
+| Mesa de luz Roma       |  3000,00 | Pino,Haya,Olmo,Bronce,Cuero                                                     |
+| Mesa de luz Londres    |  3300,00 | Pino,Guatambú,Laurel,Fresno,Cerezo,Plástico,Vidrio,Plata,Cuero                  |
+| Mesa de luz Nueva York |  4500,00 | Pino,Pinotea,Cerezo,Plástico,Vidrio                                             |
+| Mesa de luz Tokio      |  2250,00 | Laurel,Haya,Cerezo,Olivo,Bronce                                                 |
+| Mesa de luz Kloster    |  6000,00 | Guatambú,Cedro,Haya                                                             |
+| Silla Paris            |  4500,00 | Guatambú,Cedro,Haya,Olivo,Olmo,Plástico,Vidrio,Bronce                           |
+| Silla Roma             |  9000,00 | Pino,Pinotea,Guatambú,Roble,Laurel,Olmo,Plástico,Plata                          |
+| Silla Londres          |  9900,00 | Roble,Haya,Fresno,Cerezo,Olivo,Bronce,Plata                                     |
+| Silla Nueva York       | 13500,00 | Guatambú,Melamina,Cedro,Laurel,Olivo,Vidrio                                     |
+| Silla Tokio            |  6750,00 | Pino,Melamina,Olmo,Vidrio                                                       |
+| Silla Kloster          | 18000,00 | Laurel,Haya,Nogal                                                               |
+| Escritorio Paris       |  5500,00 | Cedro,Haya,Nogal,Cerezo,Olmo,Plata                                              |
+| Escritorio Roma        | 11000,00 | Pino,Cedro,Haya,Cerezo,Olmo                                                     |
+| Escritorio Londres     | 12100,00 | Pino,Guatambú,Cedro,Fresno,Olmo                                                 |
+| Escritorio Nueva York  | 16500,00 | Pino,Guatambú,Melamina,Nogal,Fresno,Olivo,Plástico,Plata                        |
+| Escritorio Tokio       |  8250,00 | Cedro,Cerezo,Plástico                                                           |
+| Escritorio Kloster     | 22000,00 | Guatambú,Haya,Nogal,Cerezo,Olmo,Plástico,Vidrio,Cuero                           |
+| Cama Paris             |  7500,00 | Pino,Guatambú,Melamina,Laurel,Haya,Cerezo,Bronce                                |
+| Cama Roma              | 15000,00 | Guatambú,Roble,Cedro,Olmo,Plástico,Vidrio,Cuero                                 |
+| Cama Londres           | 16500,00 | Pino,Pinotea,Melamina,Roble,Laurel,Haya,Olmo,Plata,Cuero                        |
+| Cama Nueva York        | 22500,00 | Cedro,Cerezo,Olivo,Plástico                                                     |
+| Cama Tokio             | 11250,00 | Guatambú,Cedro,Olivo,Vidrio,Bronce                                              |
+| Cama Kloster           | 30000,00 | Pinotea,Roble,Cedro,Haya,Fresno,Cerezo,Vidrio,Plata                             |
+| Comoda Paris           |  6500,00 | Pino,Pinotea,Roble,Haya,Nogal,Cerezo,Vidrio,Cuero                               |
+| Comoda Roma            | 13000,00 | Pino,Vidrio                                                                     |
+| Comoda Londres         | 14300,00 | Guatambú,Melamina,Laurel,Haya,Fresno,Olivo,Olmo,Plástico,Vidrio                 |
+| Comoda Nueva York      | 19500,00 | Pinotea,Roble,Haya,Nogal,Fresno,Olivo,Olmo,Vidrio                               |
+| Comoda Tokio           |  9750,00 | Guatambú,Roble,Haya,Plástico,Cuero                                              |
+| Comoda Kloster         | 26000,00 | Cedro,Olmo,Vidrio,Cuero                                                         |
+| Biblioteca Paris       |  8500,00 | Pinotea,Guatambú,Melamina,Haya,Nogal,Olivo,Plástico,Vidrio                      |
+| Biblioteca Roma        | 17000,00 | Pino,Pinotea,Roble,Haya,Olivo,Plástico,Vidrio,Bronce                            |
+| Biblioteca Londres     | 18700,00 | Melamina,Olivo,Plástico,Cuero                                                   |
+| Biblioteca Nueva York  | 25500,00 | Pinotea,Guatambú,Melamina,Cedro,Laurel,Nogal,Fresno,Plástico,Vidrio,Plata,Cuero |
+| Biblioteca Tokio       | 12750,00 | Guatambú,Fresno,Cerezo,Olmo,Plata,Cuero                                         |
+| Biblioteca Kloster     | 34000,00 | Cedro,Fresno,Plástico,Plata,Cuero                                               |
+| Banco Paris            |  9500,00 | Pino,Pinotea,Roble,Nogal,Olmo                                                   |
+| Banco Roma             | 19000,00 | Guatambú,Cedro,Laurel,Cerezo,Olivo,Olmo,Plástico,Bronce                         |
+| Banco Londres          | 20900,00 | Guatambú,Melamina,Cedro,Haya,Olivo,Vidrio,Plata                                 |
+| Banco Nueva York       | 28500,00 | Pino,Melamina,Laurel,Olmo,Plástico,Plata,Cuero                                  |
+| Banco Kloster          | 38000,00 | Pinotea,Nogal,Cerezo,Olivo,Olmo,Vidrio,Plata,Cuero                              |
+| Banco Tokio            | 14250,00 | Pino,Pinotea,Melamina,Cerezo,Vidrio,Cuero                                       |
++------------------------+----------+---------------------------------------------------------------------------------+
+
+11
+
++-----+----------------+------------------------+-------------+----------+------------------------------------------+
+| ID  | FechaSolicitud |      Descripcion       |  Apellidos  | Nombres  |             TareasRealizadas             |
++-----+----------------+------------------------+-------------+----------+------------------------------------------+
+|   1 | 2021-01-15     | Escritorio Paris       | De Filippis | Rhodia   | Listoneado                               |
+|   1 | 2021-01-15     | Escritorio Paris       | Lazyman     | John     | Colocación de herrajes                   |
+|   2 | 2020-07-29     | Mesa de luz Roma       | Gigg        | Saunder  | Trozado                                  |
+|   3 | 2020-03-27     | Silla Kloster          | Pedrollo    | Jay      | Emprolijado,Cepillado                    |
+|   4 | 2022-06-22     | Biblioteca Londres     | Dallas      | Ramsay   | Masillado                                |
+|   4 | 2022-06-22     | Biblioteca Londres     | Deackes     | Dorthea  | Colocación de herrajes                   |
+|   4 | 2022-06-22     | Biblioteca Londres     | Goodworker  | Juan     | Colocación de herrajes                   |
+|   7 | 2021-02-25     | Banco Roma             | Snowball    | Deanne   | Pintado                                  |
+|   8 | 2022-02-28     | Silla Tokio            | Lazyman     | John     | Emprolijado                              |
+|  10 | 2020-07-08     | Silla Londres          | Dallas      | Ramsay   | Encolado                                 |
+|  10 | 2020-07-08     | Silla Londres          | Gigg        | Saunder  | Masillado                                |
+|  10 | 2020-07-08     | Silla Londres          | Goodworker  | Juan     | Ensamblado                               |
+|  10 | 2020-07-08     | Silla Londres          | Hurrion     | Niven    | Pintado                                  |
+|  10 | 2020-07-08     | Silla Londres          | Pedrollo    | Jay      | Lizado                                   |
+|  11 | 2021-07-31     | Comoda Nueva York      | Aburrow     | My       | Encolado                                 |
+|  12 | 2020-07-07     | Mesa de luz Nueva York | Snowball    | Deanne   | Emprolijado                              |
+|  15 | 2022-02-09     | Mesa de luz Nueva York | Stoll       | Kristan  | Pulido                                   |
+|  16 | 2022-06-02     | Cama Londres           | De Filippis | Rhodia   | Trozado                                  |
+|  16 | 2022-06-02     | Cama Londres           | Gianulli    | Tawsha   | Emprolijado                              |
+|  17 | 2021-03-15     | Cama Nueva York        | Cobello     | Webb     | Trozado                                  |
+|  18 | 2021-02-08     | Comoda Kloster         | Mumbey      | Darda    | Pulido                                   |
+|  19 | 2020-12-20     | Silla Roma             | MacGorrie   | Datha    | Emprolijado                              |
+|  20 | 2020-11-26     | Comoda Paris           | Oxby        | Adina    | Colocación de herrajes                   |
+|  22 | 2021-11-14     | Biblioteca Kloster     | Stoll       | Kristan  | Listoneado                               |
+|  23 | 2021-10-18     | Silla Roma             | Jonah       | Dirk     | Armado                                   |
+|  24 | 2021-08-08     | Cama Nueva York        | Cobello     | Webb     | Encolado                                 |
+|  24 | 2021-08-08     | Cama Nueva York        | Lazyman     | John     | Ensamblado                               |
+|  25 | 2022-06-04     | Escritorio Londres     | Gigg        | Saunder  | Listoneado                               |
+|  25 | 2022-06-04     | Escritorio Londres     | Pedrollo    | Jay      | Trozado                                  |
+|  26 | 2021-02-05     | Biblioteca Roma        | Dallas      | Ramsay   | Terminación final                        |
+|  26 | 2021-02-05     | Biblioteca Roma        | Hatto       | Giovanni | Lizado                                   |
+|  28 | 2022-03-03     | Silla Londres          | Gianulli    | Tawsha   | Ensamblado                               |
+|  30 | 2021-11-15     | Biblioteca Roma        | Imesson     | Barde    | Masillado                                |
+|  31 | 2022-01-16     | Escritorio Kloster     | Gigg        | Saunder  | Lizado                                   |
+|  31 | 2022-01-16     | Escritorio Kloster     | Snowball    | Deanne   | Listoneado,Trozado                       |
+|  32 | 2021-04-03     | Silla Tokio            | Dominy      | Abram    | Encolado                                 |
+|  32 | 2021-04-03     | Silla Tokio            | Gianulli    | Tawsha   | Pintado                                  |
+|  32 | 2021-04-03     | Silla Tokio            | Gigg        | Saunder  | Masillado                                |
+|  32 | 2021-04-03     | Silla Tokio            | Pedrollo    | Jay      | Encolado                                 |
+|  33 | 2020-11-29     | Silla Kloster          | Dominy      | Abram    | Encolado                                 |
+|  33 | 2020-11-29     | Silla Kloster          | MacGorrie   | Datha    | Cepillado                                |
+|  33 | 2020-11-29     | Silla Kloster          | Oxby        | Adina    | Armado                                   |
+|  33 | 2020-11-29     | Silla Kloster          | Snowball    | Deanne   | Cepillado                                |
+|  34 | 2022-04-05     | Banco Londres          | Hatto       | Giovanni | Encolado                                 |
+|  34 | 2022-04-05     | Banco Londres          | Stoll       | Kristan  | Armado                                   |
+|  36 | 2021-10-06     | Silla Tokio            | Stutter     | Kelcey   | Emprolijado                              |
+|  37 | 2021-04-29     | Escritorio Kloster     | Mumbey      | Darda    | Emprolijado                              |
+|  38 | 2021-01-12     | Escritorio Tokio       | Deackes     | Dorthea  | Encolado                                 |
+|  38 | 2021-01-12     | Escritorio Tokio       | Imesson     | Barde    | Cepillado                                |
+|  39 | 2022-02-20     | Cama Paris             | Goodworker  | Juan     | Pulido                                   |
+|  39 | 2022-02-20     | Cama Paris             | Lazyman     | John     | Encolado                                 |
+|  39 | 2022-02-20     | Cama Paris             | Oxby        | Adina    | Masillado                                |
+|  40 | 2021-07-13     | Mesa de luz Londres    | Aburrow     | My       | Listoneado                               |
+|  40 | 2021-07-13     | Mesa de luz Londres    | Imesson     | Barde    | Listoneado                               |
+|  41 | 2022-01-09     | Cama Paris             | MacGorrie   | Datha    | Emprolijado                              |
+|  41 | 2022-01-09     | Cama Paris             | Oxby        | Adina    | Terminación final                        |
+|  43 | 2021-10-15     | Comoda Paris           | Aburrow     | My       | Armado                                   |
+|  43 | 2021-10-15     | Comoda Paris           | Deackes     | Dorthea  | Listoneado                               |
+|  45 | 2021-09-21     | Mesa de luz Roma       | Dominy      | Abram    | Armado                                   |
+|  47 | 2022-06-08     | Mesa de luz Tokio      | Dominy      | Abram    | Armado                                   |
+|  48 | 2021-04-30     | Silla Paris            | Aburrow     | My       | Pulido                                   |
+|  49 | 2021-12-17     | Escritorio Tokio       | Jonah       | Dirk     | Armado                                   |
+|  51 | 2021-08-21     | Silla Paris            | Gigg        | Saunder  | Pulido                                   |
+|  53 | 2021-05-21     | Mesa Roma              | Aburrow     | My       | Masillado                                |
+|  53 | 2021-05-21     | Mesa Roma              | Snowball    | Deanne   | Listoneado                               |
+|  54 | 2022-06-07     | Biblioteca Roma        | Mumbey      | Darda    | Cepillado                                |
+|  56 | 2021-06-28     | Escritorio Nueva York  | Imesson     | Barde    | Listoneado                               |
+|  57 | 2021-07-30     | Mesa de luz Paris      | Gigg        | Saunder  | Armado                                   |
+|  58 | 2022-01-12     | Biblioteca Roma        | Gianulli    | Tawsha   | Terminación final                        |
+|  59 | 2020-10-19     | Silla Nueva York       | Stoll       | Kristan  | Lizado                                   |
+|  62 | 2021-02-13     | Escritorio Tokio       | Dallas      | Ramsay   | Ensamblado                               |
+|  64 | 2021-06-05     | Cama Kloster           | Imesson     | Barde    | Cepillado                                |
+|  65 | 2020-07-14     | Biblioteca Nueva York  | Lazyman     | John     | Emprolijado                              |
+|  65 | 2020-07-14     | Biblioteca Nueva York  | Stutter     | Kelcey   | Trozado                                  |
+|  66 | 2022-02-14     | Comoda Nueva York      | Aburrow     | My       | Lizado                                   |
+|  66 | 2022-02-14     | Comoda Nueva York      | Mumbey      | Darda    | Cepillado                                |
+|  66 | 2022-02-14     | Comoda Nueva York      | Snowball    | Deanne   | Listoneado                               |
+|  68 | 2020-09-20     | Silla Kloster          | De Filippis | Rhodia   | Listoneado                               |
+|  72 | 2020-11-21     | Biblioteca Paris       | De Filippis | Rhodia   | Pintado                                  |
+|  72 | 2020-11-21     | Biblioteca Paris       | Gigg        | Saunder  | Armado                                   |
+|  74 | 2020-10-02     | Biblioteca Londres     | Jonah       | Dirk     | Emprolijado                              |
+|  76 | 2021-07-23     | Silla Kloster          | Hatto       | Giovanni | Encolado                                 |
+|  77 | 2022-02-13     | Cama Paris             | Goodworker  | Juan     | Pintado,Colocación de herrajes           |
+|  78 | 2022-02-18     | Banco Tokio            | Stoll       | Kristan  | Encolado                                 |
+|  79 | 2021-07-26     | Mesa Paris             | Stutter     | Kelcey   | Lizado                                   |
+|  80 | 2020-12-16     | Silla Tokio            | Cobello     | Webb     | Colocación de herrajes                   |
+|  81 | 2021-01-01     | Banco Nueva York       | Stoll       | Kristan  | Encolado                                 |
+|  82 | 2020-03-26     | Mesa Londres           | Snowball    | Deanne   | Armado                                   |
+|  83 | 2021-06-04     | Mesa de luz Nueva York | Hatto       | Giovanni | Terminación final                        |
+|  83 | 2021-06-04     | Mesa de luz Nueva York | Jonah       | Dirk     | Ensamblado                               |
+|  83 | 2021-06-04     | Mesa de luz Nueva York | Mumbey      | Darda    | Pulido                                   |
+|  83 | 2021-06-04     | Mesa de luz Nueva York | Snowball    | Deanne   | Lizado                                   |
+|  85 | 2020-10-29     | Silla Paris            | Hatto       | Giovanni | Armado                                   |
+|  86 | 2022-07-18     | Silla Londres          | Deackes     | Dorthea  | Colocación de herrajes                   |
+|  86 | 2022-07-18     | Silla Londres          | Mumbey      | Darda    | Trozado                                  |
+|  87 | 2022-03-05     | Comoda Nueva York      | Goodworker  | Juan     | Ensamblado                               |
+|  89 | 2020-11-25     | Escritorio Kloster     | Oxby        | Adina    | Emprolijado                              |
+|  89 | 2020-11-25     | Escritorio Kloster     | Pedrollo    | Jay      | Terminación final                        |
+|  90 | 2020-10-22     | Comoda Roma            | Deackes     | Dorthea  | Lizado                                   |
+|  90 | 2020-10-22     | Comoda Roma            | Goodworker  | Juan     | Pulido                                   |
+|  90 | 2020-10-22     | Comoda Roma            | Lazyman     | John     | Encolado                                 |
+|  90 | 2020-10-22     | Comoda Roma            | Oxby        | Adina    | Armado                                   |
+|  91 | 2021-02-06     | Cama Roma              | Pedrollo    | Jay      | Pintado                                  |
+|  93 | 2022-03-26     | Mesa Londres           | Jonah       | Dirk     | Masillado                                |
+|  93 | 2022-03-26     | Mesa Londres           | Snowball    | Deanne   | Pulido                                   |
+|  94 | 2021-12-03     | Comoda Nueva York      | Hatto       | Giovanni | Cepillado                                |
+|  95 | 2022-04-18     | Mesa Kloster           | Dominy      | Abram    | Listoneado                               |
+|  95 | 2022-04-18     | Mesa Kloster           | Pedrollo    | Jay      | Cepillado                                |
+|  97 | 2022-08-28     | Silla Nueva York       | Mumbey      | Darda    | Terminación final                        |
+| 100 | 2021-12-27     | Silla Paris            | Mumbey      | Darda    | Masillado                                |
+| 102 | 2021-06-16     | Comoda Kloster         | Deackes     | Dorthea  | Encolado                                 |
+| 102 | 2021-06-16     | Comoda Kloster         | Gianulli    | Tawsha   | Masillado,Pulido                         |
+| 102 | 2021-06-16     | Comoda Kloster         | Jonah       | Dirk     | Ensamblado                               |
+| 102 | 2021-06-16     | Comoda Kloster         | Lazyman     | John     | Lizado                                   |
+| 103 | 2022-05-09     | Mesa de luz Paris      | Hurrion     | Niven    | Pintado                                  |
+| 105 | 2020-08-07     | Biblioteca Nueva York  | Cobello     | Webb     | Pintado                                  |
+| 105 | 2020-08-07     | Biblioteca Nueva York  | Mumbey      | Darda    | Masillado                                |
+| 106 | 2020-06-20     | Biblioteca Paris       | Hurrion     | Niven    | Listoneado                               |
+| 106 | 2020-06-20     | Biblioteca Paris       | Mumbey      | Darda    | Encolado                                 |
+| 107 | 2022-06-02     | Mesa Nueva York        | Dallas      | Ramsay   | Masillado                                |
+| 107 | 2022-06-02     | Mesa Nueva York        | Hatto       | Giovanni | Pulido                                   |
+| 108 | 2021-07-09     | Comoda Tokio           | Cobello     | Webb     | Listoneado                               |
+| 108 | 2021-07-09     | Comoda Tokio           | Snowball    | Deanne   | Cepillado                                |
+| 109 | 2022-06-18     | Mesa de luz Nueva York | MacGorrie   | Datha    | Emprolijado                              |
+| 113 | 2022-03-28     | Silla Tokio            | Oxby        | Adina    | Armado                                   |
+| 115 | 2021-10-10     | Cama Roma              | MacGorrie   | Datha    | Pintado                                  |
+| 115 | 2021-10-10     | Cama Roma              | Stoll       | Kristan  | Masillado                                |
+| 117 | 2021-06-27     | Banco Londres          | Hurrion     | Niven    | Ensamblado                               |
+| 117 | 2021-06-27     | Banco Londres          | Oxby        | Adina    | Cepillado                                |
+| 121 | 2022-01-24     | Banco Paris            | Hatto       | Giovanni | Encolado                                 |
+| 121 | 2022-01-24     | Banco Paris            | Hurrion     | Niven    | Terminación final                        |
+| 121 | 2022-01-24     | Banco Paris            | Stutter     | Kelcey   | Terminación final                        |
+| 124 | 2021-02-07     | Escritorio Kloster     | Dallas      | Ramsay   | Pulido                                   |
+| 124 | 2021-02-07     | Escritorio Kloster     | Jonah       | Dirk     | Masillado                                |
+| 124 | 2021-02-07     | Escritorio Kloster     | MacGorrie   | Datha    | Colocación de herrajes                   |
+| 125 | 2020-07-27     | Silla Roma             | Aburrow     | My       | Emprolijado                              |
+| 125 | 2020-07-27     | Silla Roma             | Gigg        | Saunder  | Armado                                   |
+| 129 | 2022-05-21     | Escritorio Kloster     | Cobello     | Webb     | Terminación final                        |
+| 129 | 2022-05-21     | Escritorio Kloster     | Mumbey      | Darda    | Ensamblado,Lizado                        |
+| 129 | 2022-05-21     | Escritorio Kloster     | Oxby        | Adina    | Ensamblado                               |
+| 130 | 2020-12-08     | Silla Tokio            | Hatto       | Giovanni | Armado                                   |
+| 131 | 2020-06-23     | Mesa Paris             | Imesson     | Barde    | Ensamblado                               |
+| 131 | 2020-06-23     | Mesa Paris             | MacGorrie   | Datha    | Ensamblado                               |
+| 133 | 2021-04-30     | Silla Tokio            | Gigg        | Saunder  | Pintado                                  |
+| 133 | 2021-04-30     | Silla Tokio            | Imesson     | Barde    | Listoneado                               |
+| 134 | 2021-03-07     | Silla Roma             | Snowball    | Deanne   | Trozado                                  |
+| 135 | 2022-05-10     | Mesa Nueva York        | Dallas      | Ramsay   | Listoneado                               |
+| 135 | 2022-05-10     | Mesa Nueva York        | Oxby        | Adina    | Ensamblado                               |
+| 136 | 2020-11-09     | Mesa de luz Paris      | De Filippis | Rhodia   | Cepillado                                |
+| 136 | 2020-11-09     | Mesa de luz Paris      | Oxby        | Adina    | Ensamblado                               |
+| 136 | 2020-11-09     | Mesa de luz Paris      | Pedrollo    | Jay      | Colocación de herrajes                   |
+| 138 | 2021-11-30     | Silla Londres          | Goodworker  | Juan     | Listoneado                               |
+| 138 | 2021-11-30     | Silla Londres          | Hurrion     | Niven    | Ensamblado                               |
+| 139 | 2020-07-10     | Comoda Tokio           | Jonah       | Dirk     | Terminación final                        |
+| 139 | 2020-07-10     | Comoda Tokio           | Pedrollo    | Jay      | Ensamblado                               |
+| 141 | 2022-02-17     | Cama Roma              | Jonah       | Dirk     | Armado                                   |
+| 141 | 2022-02-17     | Cama Roma              | Stoll       | Kristan  | Pintado                                  |
+| 142 | 2021-07-01     | Cama Londres           | Aburrow     | My       | Colocación de herrajes                   |
+| 143 | 2020-04-02     | Silla Roma             | Deackes     | Dorthea  | Trozado                                  |
+| 144 | 2021-11-21     | Biblioteca Nueva York  | Aburrow     | My       | Encolado                                 |
+| 144 | 2021-11-21     | Biblioteca Nueva York  | Deackes     | Dorthea  | Emprolijado                              |
+| 145 | 2021-05-06     | Silla Roma             | Stoll       | Kristan  | Armado                                   |
+| 147 | 2022-07-16     | Silla Paris            | Hurrion     | Niven    | Emprolijado                              |
+| 148 | 2020-04-19     | Mesa Nueva York        | Dallas      | Ramsay   | Lizado                                   |
+| 148 | 2020-04-19     | Mesa Nueva York        | Oxby        | Adina    | Pintado                                  |
+| 148 | 2020-04-19     | Mesa Nueva York        | Pedrollo    | Jay      | Pulido                                   |
+| 150 | 2021-05-03     | Escritorio Nueva York  | MacGorrie   | Datha    | Masillado                                |
+| 150 | 2021-05-03     | Escritorio Nueva York  | Stoll       | Kristan  | Masillado                                |
+| 151 | 2022-06-17     | Mesa de luz Paris      | De Filippis | Rhodia   | Pintado,Colocación de herrajes           |
+| 153 | 2022-01-12     | Silla Paris            | Gianulli    | Tawsha   | Emprolijado                              |
+| 153 | 2022-01-12     | Silla Paris            | Lazyman     | John     | Trozado                                  |
+| 155 | 2021-01-16     | Silla Paris            | Cobello     | Webb     | Terminación final                        |
+| 158 | 2020-11-06     | Cama Londres           | Dallas      | Ramsay   | Masillado                                |
+| 159 | 2021-09-30     | Escritorio Tokio       | Hurrion     | Niven    | Ensamblado                               |
+| 159 | 2021-09-30     | Escritorio Tokio       | Oxby        | Adina    | Listoneado                               |
+| 159 | 2021-09-30     | Escritorio Tokio       | Stutter     | Kelcey   | Emprolijado                              |
+| 160 | 2021-07-11     | Mesa de luz Tokio      | Gianulli    | Tawsha   | Listoneado                               |
+| 160 | 2021-07-11     | Mesa de luz Tokio      | Pedrollo    | Jay      | Armado                                   |
+| 163 | 2021-09-26     | Escritorio Kloster     | Cobello     | Webb     | Lizado                                   |
+| 164 | 2022-02-19     | Mesa Paris             | Lazyman     | John     | Encolado                                 |
+| 165 | 2020-04-17     | Biblioteca Londres     | Pedrollo    | Jay      | Terminación final                        |
+| 165 | 2020-04-17     | Biblioteca Londres     | Stoll       | Kristan  | Pintado                                  |
+| 166 | 2021-04-30     | Silla Paris            | Dominy      | Abram    | Pintado                                  |
+| 166 | 2021-04-30     | Silla Paris            | Lazyman     | John     | Colocación de herrajes                   |
+| 167 | 2021-03-09     | Escritorio Tokio       | Lazyman     | John     | Pulido                                   |
+| 169 | 2020-12-04     | Escritorio Londres     | Aburrow     | My       | Colocación de herrajes                   |
+| 169 | 2020-12-04     | Escritorio Londres     | Gianulli    | Tawsha   | Lizado                                   |
+| 169 | 2020-12-04     | Escritorio Londres     | Pedrollo    | Jay      | Listoneado                               |
+| 171 | 2020-05-05     | Mesa Kloster           | Gianulli    | Tawsha   | Encolado                                 |
+| 172 | 2021-02-06     | Escritorio Londres     | Deackes     | Dorthea  | Colocación de herrajes                   |
+| 172 | 2021-02-06     | Escritorio Londres     | Snowball    | Deanne   | Ensamblado                               |
+| 173 | 2020-07-27     | Comoda Kloster         | Cobello     | Webb     | Ensamblado                               |
+| 174 | 2020-05-31     | Silla Nueva York       | Hatto       | Giovanni | Armado                                   |
+| 175 | 2020-04-02     | Comoda Kloster         | De Filippis | Rhodia   | Encolado                                 |
+| 175 | 2020-04-02     | Comoda Kloster         | MacGorrie   | Datha    | Terminación final                        |
+| 178 | 2020-05-20     | Silla Tokio            | Goodworker  | Juan     | Pintado                                  |
+| 179 | 2022-08-01     | Silla Roma             | Imesson     | Barde    | Listoneado                               |
+| 180 | 2021-11-09     | Mesa Kloster           | Hurrion     | Niven    | Pintado                                  |
+| 181 | 2022-06-11     | Banco Roma             | Hurrion     | Niven    | Masillado                                |
+| 181 | 2022-06-11     | Banco Roma             | Stutter     | Kelcey   | Listoneado                               |
+| 182 | 2021-02-10     | Mesa Roma              | Cobello     | Webb     | Masillado                                |
+| 182 | 2021-02-10     | Mesa Roma              | Dallas      | Ramsay   | Listoneado                               |
+| 185 | 2020-07-06     | Mesa Nueva York        | Gigg        | Saunder  | Armado                                   |
+| 187 | 2020-08-08     | Mesa de luz Nueva York | De Filippis | Rhodia   | Terminación final                        |
+| 187 | 2020-08-08     | Mesa de luz Nueva York | Goodworker  | Juan     | Listoneado                               |
+| 190 | 2020-06-03     | Silla Londres          | Pedrollo    | Jay      | Encolado                                 |
+| 190 | 2020-06-03     | Silla Londres          | Snowball    | Deanne   | Pintado                                  |
+| 193 | 2021-03-15     | Silla Paris            | Goodworker  | Juan     | Lizado                                   |
+| 193 | 2021-03-15     | Silla Paris            | Mumbey      | Darda    | Masillado                                |
+| 194 | 2021-02-13     | Silla Nueva York       | Jonah       | Dirk     | Lizado                                   |
+| 196 | 2021-06-20     | Silla Kloster          | Imesson     | Barde    | Trozado                                  |
+| 196 | 2021-06-20     | Silla Kloster          | Stoll       | Kristan  | Emprolijado                              |
+| 197 | 2021-02-08     | Cama Nueva York        | Hatto       | Giovanni | Masillado                                |
+| 197 | 2021-02-08     | Cama Nueva York        | Snowball    | Deanne   | Armado                                   |
+| 197 | 2021-02-08     | Cama Nueva York        | Stoll       | Kristan  | Emprolijado                              |
+| 198 | 2021-10-24     | Mesa de luz Londres    | Deackes     | Dorthea  | Emprolijado                              |
+| 198 | 2021-10-24     | Mesa de luz Londres    | Imesson     | Barde    | Encolado                                 |
+| 200 | 2021-02-09     | Biblioteca Kloster     | Cobello     | Webb     | Encolado                                 |
+| 201 | 2022-02-13     | Silla Nueva York       | Cobello     | Webb     | Ensamblado                               |
+| 201 | 2022-02-13     | Silla Nueva York       | Gianulli    | Tawsha   | Terminación final                        |
+| 201 | 2022-02-13     | Silla Nueva York       | Stoll       | Kristan  | Masillado                                |
+| 203 | 2020-11-21     | Cama Roma              | Gigg        | Saunder  | Armado                                   |
+| 205 | 2020-09-30     | Escritorio Paris       | Jonah       | Dirk     | Colocación de herrajes,Masillado         |
+| 205 | 2020-09-30     | Escritorio Paris       | Snowball    | Deanne   | Cepillado                                |
+| 206 | 2020-05-16     | Silla Tokio            | Aburrow     | My       | Armado                                   |
+| 206 | 2020-05-16     | Silla Tokio            | Dallas      | Ramsay   | Trozado                                  |
+| 206 | 2020-05-16     | Silla Tokio            | Deackes     | Dorthea  | Lizado                                   |
+| 206 | 2020-05-16     | Silla Tokio            | Dominy      | Abram    | Ensamblado                               |
+| 206 | 2020-05-16     | Silla Tokio            | Lazyman     | John     | Encolado                                 |
+| 208 | 2022-07-28     | Mesa de luz Tokio      | Gigg        | Saunder  | Encolado                                 |
+| 208 | 2022-07-28     | Mesa de luz Tokio      | Imesson     | Barde    | Ensamblado                               |
+| 210 | 2021-05-22     | Silla Londres          | De Filippis | Rhodia   | Lizado                                   |
+| 210 | 2021-05-22     | Silla Londres          | Snowball    | Deanne   | Colocación de herrajes,Ensamblado        |
+| 213 | 2020-12-10     | Mesa Londres           | Dallas      | Ramsay   | Colocación de herrajes                   |
+| 214 | 2022-06-16     | Banco Tokio            | Gianulli    | Tawsha   | Masillado                                |
+| 215 | 2022-07-21     | Silla Roma             | Gianulli    | Tawsha   | Armado                                   |
+| 215 | 2022-07-21     | Silla Roma             | Stutter     | Kelcey   | Lizado                                   |
+| 217 | 2021-03-31     | Escritorio Tokio       | Deackes     | Dorthea  | Terminación final                        |
+| 217 | 2021-03-31     | Escritorio Tokio       | Jonah       | Dirk     | Terminación final                        |
+| 218 | 2020-06-26     | Silla Paris            | Hatto       | Giovanni | Terminación final                        |
+| 218 | 2020-06-26     | Silla Paris            | Imesson     | Barde    | Trozado                                  |
+| 220 | 2020-07-14     | Escritorio Nueva York  | De Filippis | Rhodia   | Armado                                   |
+| 221 | 2021-02-08     | Banco Roma             | Snowball    | Deanne   | Trozado                                  |
+| 221 | 2021-02-08     | Banco Roma             | Stoll       | Kristan  | Trozado                                  |
+| 222 | 2022-05-02     | Cama Paris             | Goodworker  | Juan     | Ensamblado                               |
+| 223 | 2022-03-20     | Comoda Kloster         | Lazyman     | John     | Pintado                                  |
+| 225 | 2022-01-31     | Silla Roma             | MacGorrie   | Datha    | Pintado                                  |
+| 231 | 2021-06-24     | Mesa Tokio             | Gianulli    | Tawsha   | Lizado                                   |
+| 232 | 2020-08-15     | Escritorio Londres     | Mumbey      | Darda    | Ensamblado                               |
+| 236 | 2020-09-01     | Silla Kloster          | Aburrow     | My       | Ensamblado                               |
+| 236 | 2020-09-01     | Silla Kloster          | Dallas      | Ramsay   | Terminación final                        |
+| 239 | 2022-04-01     | Comoda Nueva York      | Cobello     | Webb     | Lizado                                   |
+| 242 | 2021-03-12     | Silla Roma             | Goodworker  | Juan     | Lizado                                   |
+| 243 | 2022-06-22     | Mesa de luz Londres    | Dallas      | Ramsay   | Terminación final                        |
+| 243 | 2022-06-22     | Mesa de luz Londres    | Lazyman     | John     | Ensamblado                               |
+| 244 | 2022-03-10     | Cama Tokio             | Goodworker  | Juan     | Trozado                                  |
+| 246 | 2022-01-14     | Silla Roma             | Lazyman     | John     | Lizado                                   |
+| 249 | 2022-02-12     | Biblioteca Roma        | Gianulli    | Tawsha   | Terminación final                        |
+| 249 | 2022-02-12     | Biblioteca Roma        | Stutter     | Kelcey   | Armado                                   |
+| 256 | 2022-04-28     | Biblioteca Paris       | Goodworker  | Juan     | Pintado                                  |
+| 257 | 2022-06-21     | Biblioteca Paris       | Pedrollo    | Jay      | Lizado                                   |
+| 258 | 2021-01-04     | Silla Tokio            | Dominy      | Abram    | Pintado                                  |
+| 258 | 2021-01-04     | Silla Tokio            | Hurrion     | Niven    | Masillado                                |
+| 259 | 2022-02-23     | Mesa de luz Londres    | Gigg        | Saunder  | Pintado                                  |
+| 259 | 2022-02-23     | Mesa de luz Londres    | Imesson     | Barde    | Emprolijado                              |
+| 259 | 2022-02-23     | Mesa de luz Londres    | Lazyman     | John     | Listoneado                               |
+| 260 | 2022-03-27     | Biblioteca Tokio       | Lazyman     | John     | Masillado                                |
+| 261 | 2021-09-01     | Escritorio Paris       | Imesson     | Barde    | Ensamblado                               |
+| 265 | 2021-07-04     | Comoda Paris           | Hatto       | Giovanni | Ensamblado                               |
+| 265 | 2021-07-04     | Comoda Paris           | Mumbey      | Darda    | Lizado                                   |
+| 265 | 2021-07-04     | Comoda Paris           | Stutter     | Kelcey   | Masillado                                |
+| 266 | 2021-04-09     | Banco Kloster          | Imesson     | Barde    | Trozado                                  |
+| 266 | 2021-04-09     | Banco Kloster          | MacGorrie   | Datha    | Colocación de herrajes                   |
+| 267 | 2021-03-16     | Escritorio Nueva York  | Oxby        | Adina    | Trozado,Emprolijado                      |
+| 268 | 2021-05-12     | Silla Londres          | Stutter     | Kelcey   | Terminación final                        |
+| 270 | 2021-08-16     | Biblioteca Paris       | Cobello     | Webb     | Ensamblado                               |
+| 273 | 2022-07-17     | Silla Roma             | Hurrion     | Niven    | Armado                                   |
+| 273 | 2022-07-17     | Silla Roma             | Mumbey      | Darda    | Trozado                                  |
+| 274 | 2022-06-24     | Banco Nueva York       | Dominy      | Abram    | Lizado                                   |
+| 274 | 2022-06-24     | Banco Nueva York       | Hatto       | Giovanni | Lizado                                   |
+| 275 | 2020-05-30     | Escritorio Londres     | Dominy      | Abram    | Masillado                                |
+| 275 | 2020-05-30     | Escritorio Londres     | Stutter     | Kelcey   | Pulido                                   |
+| 276 | 2021-06-17     | Biblioteca Paris       | Aburrow     | My       | Terminación final                        |
+| 276 | 2021-06-17     | Biblioteca Paris       | Deackes     | Dorthea  | Emprolijado                              |
+| 276 | 2021-06-17     | Biblioteca Paris       | Hatto       | Giovanni | Trozado                                  |
+| 276 | 2021-06-17     | Biblioteca Paris       | Oxby        | Adina    | Terminación final                        |
+| 277 | 2021-01-07     | Silla Kloster          | Stoll       | Kristan  | Colocación de herrajes                   |
+| 278 | 2022-08-07     | Escritorio Kloster     | Lazyman     | John     | Cepillado                                |
+| 279 | 2021-04-05     | Mesa de luz Tokio      | Hurrion     | Niven    | Terminación final                        |
+| 280 | 2020-09-27     | Biblioteca Paris       | Hurrion     | Niven    | Lizado                                   |
+| 282 | 2020-03-28     | Escritorio Kloster     | De Filippis | Rhodia   | Terminación final                        |
+| 283 | 2022-05-30     | Comoda Kloster         | Hurrion     | Niven    | Emprolijado                              |
+| 283 | 2022-05-30     | Comoda Kloster         | MacGorrie   | Datha    | Terminación final                        |
+| 283 | 2022-05-30     | Comoda Kloster         | Stoll       | Kristan  | Lizado                                   |
+| 286 | 2020-09-21     | Escritorio Roma        | Dallas      | Ramsay   | Pulido                                   |
+| 286 | 2020-09-21     | Escritorio Roma        | Oxby        | Adina    | Trozado                                  |
+| 289 | 2020-04-03     | Cama Paris             | Goodworker  | Juan     | Terminación final                        |
+| 290 | 2020-08-04     | Mesa Paris             | Goodworker  | Juan     | Masillado                                |
+| 292 | 2022-02-19     | Mesa de luz Roma       | Cobello     | Webb     | Ensamblado                               |
+| 293 | 2022-03-17     | Mesa de luz Kloster    | Cobello     | Webb     | Terminación final                        |
+| 294 | 2021-07-28     | Silla Paris            | Dallas      | Ramsay   | Listoneado                               |
+| 294 | 2021-07-28     | Silla Paris            | Imesson     | Barde    | Listoneado                               |
+| 294 | 2021-07-28     | Silla Paris            | Mumbey      | Darda    | Lizado                                   |
+| 295 | 2021-08-12     | Silla Nueva York       | Goodworker  | Juan     | Trozado                                  |
+| 295 | 2021-08-12     | Silla Nueva York       | Mumbey      | Darda    | Lizado                                   |
+| 295 | 2021-08-12     | Silla Nueva York       | Snowball    | Deanne   | Ensamblado                               |
+| 296 | 2020-08-15     | Silla Paris            | Imesson     | Barde    | Encolado                                 |
+| 298 | 2021-04-03     | Mesa de luz Roma       | De Filippis | Rhodia   | Armado                                   |
+| 298 | 2021-04-03     | Mesa de luz Roma       | Deackes     | Dorthea  | Trozado                                  |
+| 298 | 2021-04-03     | Mesa de luz Roma       | Goodworker  | Juan     | Pintado                                  |
+| 300 | 2022-02-19     | Escritorio Paris       | Gigg        | Saunder  | Armado                                   |
+| 300 | 2022-02-19     | Escritorio Paris       | Imesson     | Barde    | Lizado                                   |
+| 301 | 2021-11-08     | Banco Londres          | Cobello     | Webb     | Cepillado                                |
+| 301 | 2021-11-08     | Banco Londres          | Pedrollo    | Jay      | Listoneado                               |
+| 302 | 2021-04-23     | Silla Londres          | Aburrow     | My       | Trozado                                  |
+| 303 | 2021-12-01     | Biblioteca Tokio       | Lazyman     | John     | Pulido                                   |
+| 305 | 2021-09-12     | Mesa de luz Tokio      | Hurrion     | Niven    | Encolado                                 |
+| 305 | 2021-09-12     | Mesa de luz Tokio      | Stutter     | Kelcey   | Armado                                   |
+| 306 | 2021-08-20     | Biblioteca Nueva York  | De Filippis | Rhodia   | Listoneado                               |
+| 306 | 2021-08-20     | Biblioteca Nueva York  | Gigg        | Saunder  | Cepillado                                |
+| 307 | 2021-12-29     | Silla Tokio            | Gigg        | Saunder  | Ensamblado                               |
+| 309 | 2021-02-11     | Mesa de luz Kloster    | Dallas      | Ramsay   | Masillado                                |
+| 309 | 2021-02-11     | Mesa de luz Kloster    | MacGorrie   | Datha    | Colocación de herrajes                   |
+| 310 | 2022-08-11     | Silla Roma             | Stutter     | Kelcey   | Lizado                                   |
+| 315 | 2022-06-25     | Cama Londres           | Dallas      | Ramsay   | Cepillado                                |
+| 315 | 2022-06-25     | Cama Londres           | Hatto       | Giovanni | Pintado                                  |
+| 317 | 2020-04-27     | Silla Nueva York       | Imesson     | Barde    | Lizado                                   |
+| 319 | 2021-07-13     | Mesa de luz Roma       | De Filippis | Rhodia   | Cepillado                                |
+| 320 | 2021-07-03     | Silla Roma             | Gigg        | Saunder  | Lizado                                   |
+| 320 | 2021-07-03     | Silla Roma             | Imesson     | Barde    | Masillado                                |
+| 321 | 2020-05-07     | Mesa de luz Londres    | De Filippis | Rhodia   | Listoneado                               |
+| 322 | 2020-09-25     | Comoda Londres         | Lazyman     | John     | Trozado                                  |
+| 323 | 2022-01-14     | Cama Tokio             | Aburrow     | My       | Cepillado                                |
+| 325 | 2021-01-24     | Mesa de luz Tokio      | Deackes     | Dorthea  | Trozado                                  |
+| 327 | 2020-07-21     | Comoda Paris           | Hurrion     | Niven    | Emprolijado                              |
+| 327 | 2020-07-21     | Comoda Paris           | Jonah       | Dirk     | Pintado                                  |
+| 328 | 2020-09-09     | Silla Londres          | MacGorrie   | Datha    | Cepillado                                |
+| 329 | 2020-05-11     | Banco Roma             | Goodworker  | Juan     | Trozado                                  |
+| 333 | 2022-03-23     | Banco Tokio            | Aburrow     | My       | Emprolijado                              |
+| 333 | 2022-03-23     | Banco Tokio            | Deackes     | Dorthea  | Pulido                                   |
+| 335 | 2021-10-21     | Escritorio Tokio       | Jonah       | Dirk     | Masillado                                |
+| 336 | 2021-09-18     | Mesa Tokio             | Pedrollo    | Jay      | Ensamblado                               |
+| 338 | 2021-12-12     | Mesa Kloster           | Dallas      | Ramsay   | Encolado                                 |
+| 339 | 2022-04-08     | Mesa de luz Londres    | Pedrollo    | Jay      | Terminación final                        |
+| 340 | 2021-09-25     | Escritorio Nueva York  | Hatto       | Giovanni | Ensamblado                               |
+| 340 | 2021-09-25     | Escritorio Nueva York  | Stoll       | Kristan  | Colocación de herrajes                   |
+| 341 | 2021-01-09     | Comoda Londres         | Snowball    | Deanne   | Terminación final                        |
+| 343 | 2022-01-27     | Mesa Londres           | De Filippis | Rhodia   | Ensamblado                               |
+| 343 | 2022-01-27     | Mesa Londres           | Mumbey      | Darda    | Trozado                                  |
+| 344 | 2021-11-28     | Mesa Kloster           | Pedrollo    | Jay      | Emprolijado                              |
+| 345 | 2021-08-14     | Mesa de luz Paris      | Jonah       | Dirk     | Masillado                                |
+| 346 | 2020-03-14     | Banco Paris            | Mumbey      | Darda    | Listoneado                               |
+| 348 | 2020-11-25     | Silla Londres          | Oxby        | Adina    | Masillado                                |
+| 349 | 2021-07-25     | Comoda Roma            | Lazyman     | John     | Terminación final                        |
+| 350 | 2022-03-08     | Banco Paris            | Gigg        | Saunder  | Ensamblado                               |
+| 350 | 2022-03-08     | Banco Paris            | Jonah       | Dirk     | Colocación de herrajes                   |
+| 352 | 2021-11-17     | Cama Kloster           | Dallas      | Ramsay   | Pulido                                   |
+| 352 | 2021-11-17     | Cama Kloster           | Hatto       | Giovanni | Listoneado                               |
+| 353 | 2020-11-23     | Silla Londres          | Gigg        | Saunder  | Masillado                                |
+| 354 | 2022-05-19     | Mesa de luz Kloster    | Hatto       | Giovanni | Trozado                                  |
+| 354 | 2022-05-19     | Mesa de luz Kloster    | Jonah       | Dirk     | Listoneado                               |
+| 355 | 2022-01-08     | Silla Nueva York       | Snowball    | Deanne   | Cepillado                                |
+| 356 | 2021-12-08     | Banco Kloster          | Deackes     | Dorthea  | Armado                                   |
+| 359 | 2020-10-05     | Biblioteca Paris       | Jonah       | Dirk     | Cepillado                                |
+| 360 | 2021-04-13     | Mesa Tokio             | Goodworker  | Juan     | Emprolijado                              |
+| 360 | 2021-04-13     | Mesa Tokio             | Hatto       | Giovanni | Listoneado                               |
+| 360 | 2021-04-13     | Mesa Tokio             | Snowball    | Deanne   | Ensamblado                               |
+| 362 | 2020-07-31     | Banco Roma             | Pedrollo    | Jay      | Pintado                                  |
+| 363 | 2022-03-12     | Cama Kloster           | De Filippis | Rhodia   | Trozado                                  |
+| 364 | 2021-07-31     | Mesa Kloster           | Cobello     | Webb     | Encolado                                 |
+| 372 | 2022-03-08     | Cama Kloster           | Deackes     | Dorthea  | Armado                                   |
+| 373 | 2021-04-29     | Silla Roma             | Goodworker  | Juan     | Pulido                                   |
+| 374 | 2020-05-01     | Silla Tokio            | Gianulli    | Tawsha   | Listoneado                               |
+| 375 | 2021-02-22     | Mesa Londres           | Cobello     | Webb     | Colocación de herrajes                   |
+| 375 | 2021-02-22     | Mesa Londres           | Stoll       | Kristan  | Masillado                                |
+| 377 | 2020-11-01     | Mesa de luz Kloster    | Lazyman     | John     | Ensamblado,Listoneado                    |
+| 379 | 2020-12-31     | Silla Nueva York       | Hurrion     | Niven    | Lizado                                   |
+| 379 | 2020-12-31     | Silla Nueva York       | Imesson     | Barde    | Emprolijado                              |
+| 380 | 2020-08-25     | Biblioteca Tokio       | Cobello     | Webb     | Masillado                                |
+| 383 | 2020-12-03     | Banco Nueva York       | Lazyman     | John     | Pintado                                  |
+| 385 | 2020-06-02     | Silla Nueva York       | Jonah       | Dirk     | Emprolijado,Cepillado                    |
+| 385 | 2020-06-02     | Silla Nueva York       | Lazyman     | John     | Trozado                                  |
+| 388 | 2020-10-24     | Biblioteca Londres     | Imesson     | Barde    | Armado                                   |
+| 388 | 2020-10-24     | Biblioteca Londres     | Stoll       | Kristan  | Listoneado                               |
+| 390 | 2020-12-01     | Mesa Kloster           | De Filippis | Rhodia   | Ensamblado                               |
+| 391 | 2020-07-06     | Mesa de luz Kloster    | Mumbey      | Darda    | Emprolijado                              |
+| 392 | 2020-09-10     | Biblioteca Tokio       | Cobello     | Webb     | Pintado                                  |
+| 392 | 2020-09-10     | Biblioteca Tokio       | Jonah       | Dirk     | Masillado                                |
+| 394 | 2020-07-12     | Banco Roma             | Deackes     | Dorthea  | Armado                                   |
+| 394 | 2020-07-12     | Banco Roma             | Hatto       | Giovanni | Armado                                   |
+| 395 | 2020-06-15     | Silla Londres          | MacGorrie   | Datha    | Cepillado                                |
+| 395 | 2020-06-15     | Silla Londres          | Mumbey      | Darda    | Colocación de herrajes                   |
+| 397 | 2020-12-26     | Mesa de luz Roma       | Goodworker  | Juan     | Emprolijado                              |
+| 398 | 2022-06-05     | Mesa Londres           | MacGorrie   | Datha    | Pintado                                  |
+| 399 | 2021-05-21     | Cama Roma              | Stutter     | Kelcey   | Pintado                                  |
+| 402 | 2022-06-16     | Silla Nueva York       | Dallas      | Ramsay   | Ensamblado                               |
+| 402 | 2022-06-16     | Silla Nueva York       | Goodworker  | Juan     | Lizado                                   |
+| 402 | 2022-06-16     | Silla Nueva York       | Pedrollo    | Jay      | Listoneado                               |
+| 404 | 2020-09-30     | Comoda Roma            | Dallas      | Ramsay   | Listoneado                               |
+| 404 | 2020-09-30     | Comoda Roma            | MacGorrie   | Datha    | Emprolijado,Cepillado                    |
+| 406 | 2020-04-08     | Biblioteca Londres     | Dominy      | Abram    | Pulido                                   |
+| 406 | 2020-04-08     | Biblioteca Londres     | Lazyman     | John     | Trozado                                  |
+| 407 | 2022-07-23     | Banco Nueva York       | Gigg        | Saunder  | Encolado                                 |
+| 408 | 2022-08-18     | Silla Tokio            | Jonah       | Dirk     | Terminación final                        |
+| 408 | 2022-08-18     | Silla Tokio            | Stutter     | Kelcey   | Colocación de herrajes                   |
+| 409 | 2021-12-23     | Biblioteca Nueva York  | Deackes     | Dorthea  | Pulido                                   |
+| 409 | 2021-12-23     | Biblioteca Nueva York  | Lazyman     | John     | Masillado                                |
+| 409 | 2021-12-23     | Biblioteca Nueva York  | Oxby        | Adina    | Trozado                                  |
+| 410 | 2020-04-27     | Comoda Roma            | Hatto       | Giovanni | Ensamblado                               |
+| 411 | 2021-11-16     | Silla Kloster          | Hurrion     | Niven    | Emprolijado                              |
+| 412 | 2022-05-23     | Cama Nueva York        | Snowball    | Deanne   | Terminación final                        |
+| 414 | 2021-05-15     | Comoda Paris           | Jonah       | Dirk     | Armado                                   |
+| 415 | 2022-03-31     | Silla Nueva York       | Oxby        | Adina    | Armado                                   |
+| 417 | 2022-04-09     | Banco Nueva York       | Deackes     | Dorthea  | Colocación de herrajes                   |
+| 417 | 2022-04-09     | Banco Nueva York       | Jonah       | Dirk     | Pulido                                   |
+| 417 | 2022-04-09     | Banco Nueva York       | Snowball    | Deanne   | Pulido                                   |
+| 418 | 2021-06-22     | Escritorio Kloster     | Oxby        | Adina    | Lizado                                   |
+| 420 | 2022-02-23     | Comoda Roma            | Aburrow     | My       | Encolado                                 |
+| 420 | 2022-02-23     | Comoda Roma            | Pedrollo    | Jay      | Pintado                                  |
+| 421 | 2021-07-31     | Escritorio Paris       | Deackes     | Dorthea  | Pulido                                   |
+| 423 | 2021-07-31     | Mesa Paris             | Goodworker  | Juan     | Armado                                   |
+| 423 | 2021-07-31     | Mesa Paris             | Stutter     | Kelcey   | Pulido                                   |
+| 424 | 2022-07-17     | Silla Nueva York       | Cobello     | Webb     | Armado                                   |
+| 424 | 2022-07-17     | Silla Nueva York       | Gigg        | Saunder  | Listoneado                               |
+| 426 | 2022-05-08     | Cama Londres           | Hurrion     | Niven    | Cepillado                                |
+| 426 | 2022-05-08     | Cama Londres           | Stutter     | Kelcey   | Masillado                                |
+| 427 | 2020-07-08     | Mesa Nueva York        | Dominy      | Abram    | Ensamblado                               |
+| 427 | 2020-07-08     | Mesa Nueva York        | Stoll       | Kristan  | Masillado                                |
+| 429 | 2022-03-23     | Comoda Tokio           | Jonah       | Dirk     | Terminación final                        |
+| 432 | 2021-01-07     | Biblioteca Londres     | Gigg        | Saunder  | Lizado                                   |
+| 432 | 2021-01-07     | Biblioteca Londres     | Goodworker  | Juan     | Armado                                   |
+| 432 | 2021-01-07     | Biblioteca Londres     | Oxby        | Adina    | Listoneado                               |
+| 433 | 2022-06-06     | Cama Kloster           | Aburrow     | My       | Lizado                                   |
+| 433 | 2022-06-06     | Cama Kloster           | Dallas      | Ramsay   | Encolado                                 |
+| 433 | 2022-06-06     | Cama Kloster           | Gianulli    | Tawsha   | Trozado                                  |
+| 435 | 2020-12-11     | Silla Tokio            | Jonah       | Dirk     | Armado                                   |
+| 435 | 2020-12-11     | Silla Tokio            | Snowball    | Deanne   | Listoneado                               |
+| 437 | 2022-07-05     | Silla Paris            | Hatto       | Giovanni | Terminación final                        |
+| 438 | 2021-12-12     | Mesa Londres           | Dallas      | Ramsay   | Masillado                                |
+| 438 | 2021-12-12     | Mesa Londres           | De Filippis | Rhodia   | Colocación de herrajes                   |
+| 439 | 2020-05-26     | Silla Roma             | De Filippis | Rhodia   | Trozado                                  |
+| 440 | 2022-03-29     | Silla Nueva York       | Oxby        | Adina    | Listoneado                               |
+| 441 | 2021-07-14     | Cama Paris             | Mumbey      | Darda    | Trozado                                  |
+| 442 | 2021-07-11     | Silla Roma             | Gianulli    | Tawsha   | Listoneado                               |
+| 442 | 2021-07-11     | Silla Roma             | Gigg        | Saunder  | Masillado                                |
+| 444 | 2022-08-18     | Comoda Roma            | MacGorrie   | Datha    | Masillado                                |
+| 445 | 2020-09-16     | Mesa Londres           | Oxby        | Adina    | Pintado                                  |
+| 446 | 2021-05-29     | Mesa de luz Tokio      | Deackes     | Dorthea  | Cepillado                                |
+| 447 | 2022-02-21     | Banco Nueva York       | Cobello     | Webb     | Trozado                                  |
+| 447 | 2022-02-21     | Banco Nueva York       | Dallas      | Ramsay   | Colocación de herrajes                   |
+| 447 | 2022-02-21     | Banco Nueva York       | Jonah       | Dirk     | Listoneado                               |
+| 449 | 2020-10-23     | Comoda Londres         | Stutter     | Kelcey   | Colocación de herrajes                   |
+| 451 | 2020-04-11     | Cama Tokio             | Hurrion     | Niven    | Terminación final                        |
+| 451 | 2020-04-11     | Cama Tokio             | Stoll       | Kristan  | Pulido                                   |
+| 452 | 2022-01-26     | Cama Tokio             | Goodworker  | Juan     | Armado,Emprolijado                       |
+| 453 | 2022-04-06     | Mesa Londres           | De Filippis | Rhodia   | Listoneado                               |
+| 455 | 2021-03-14     | Escritorio Paris       | Aburrow     | My       | Lizado                                   |
+| 457 | 2020-10-22     | Escritorio Londres     | Dominy      | Abram    | Emprolijado,Lizado                       |
+| 457 | 2020-10-22     | Escritorio Londres     | Gigg        | Saunder  | Colocación de herrajes                   |
+| 460 | 2021-11-02     | Silla Roma             | Dallas      | Ramsay   | Colocación de herrajes                   |
+| 460 | 2021-11-02     | Silla Roma             | De Filippis | Rhodia   | Armado                                   |
+| 460 | 2021-11-02     | Silla Roma             | Goodworker  | Juan     | Cepillado                                |
+| 460 | 2021-11-02     | Silla Roma             | Stoll       | Kristan  | Armado                                   |
+| 461 | 2020-10-06     | Silla Nueva York       | Aburrow     | My       | Emprolijado                              |
+| 461 | 2020-10-06     | Silla Nueva York       | Jonah       | Dirk     | Pulido                                   |
+| 462 | 2022-02-03     | Cama Tokio             | Hurrion     | Niven    | Colocación de herrajes                   |
+| 462 | 2022-02-03     | Cama Tokio             | Pedrollo    | Jay      | Terminación final                        |
+| 463 | 2022-07-17     | Comoda Tokio           | Imesson     | Barde    | Ensamblado                               |
+| 464 | 2020-10-01     | Banco Tokio            | Goodworker  | Juan     | Ensamblado                               |
+| 466 | 2022-04-12     | Banco Nueva York       | Hatto       | Giovanni | Emprolijado                              |
+| 468 | 2022-01-11     | Silla Paris            | Aburrow     | My       | Ensamblado                               |
+| 468 | 2022-01-11     | Silla Paris            | Oxby        | Adina    | Terminación final                        |
+| 471 | 2020-06-09     | Silla Roma             | MacGorrie   | Datha    | Emprolijado                              |
+| 472 | 2020-05-09     | Mesa Nueva York        | Jonah       | Dirk     | Ensamblado                               |
+| 473 | 2022-07-28     | Mesa de luz Roma       | Lazyman     | John     | Pintado                                  |
+| 473 | 2022-07-28     | Mesa de luz Roma       | Pedrollo    | Jay      | Ensamblado                               |
+| 475 | 2021-09-02     | Mesa de luz Nueva York | Pedrollo    | Jay      | Lizado                                   |
+| 477 | 2022-03-17     | Escritorio Nueva York  | Aburrow     | My       | Masillado                                |
+| 477 | 2022-03-17     | Escritorio Nueva York  | Gigg        | Saunder  | Emprolijado                              |
+| 477 | 2022-03-17     | Escritorio Nueva York  | Stutter     | Kelcey   | Lizado                                   |
+| 479 | 2021-03-28     | Banco Tokio            | Hurrion     | Niven    | Pintado                                  |
+| 479 | 2021-03-28     | Banco Tokio            | Imesson     | Barde    | Lizado                                   |
+| 479 | 2021-03-28     | Banco Tokio            | Pedrollo    | Jay      | Colocación de herrajes                   |
+| 480 | 2020-12-02     | Biblioteca Tokio       | Imesson     | Barde    | Armado                                   |
+| 480 | 2020-12-02     | Biblioteca Tokio       | Snowball    | Deanne   | Pintado                                  |
+| 481 | 2021-04-17     | Banco Roma             | Oxby        | Adina    | Encolado                                 |
+| 481 | 2021-04-17     | Banco Roma             | Snowball    | Deanne   | Colocación de herrajes                   |
+| 482 | 2021-03-22     | Mesa de luz Paris      | Hurrion     | Niven    | Pulido                                   |
+| 483 | 2020-06-11     | Comoda Nueva York      | Hatto       | Giovanni | Masillado                                |
+| 483 | 2020-06-11     | Comoda Nueva York      | Stoll       | Kristan  | Pintado                                  |
+| 484 | 2022-05-06     | Mesa de luz Kloster    | Stoll       | Kristan  | Masillado,Armado                         |
+| 485 | 2022-03-22     | Mesa de luz Tokio      | Goodworker  | Juan     | Emprolijado                              |
+| 490 | 2022-02-19     | Comoda Paris           | Stoll       | Kristan  | Pulido                                   |
+| 493 | 2022-06-01     | Banco Nueva York       | Jonah       | Dirk     | Colocación de herrajes                   |
+| 494 | 2021-08-13     | Mesa Tokio             | Aburrow     | My       | Masillado                                |
+| 495 | 2021-07-23     | Silla Tokio            | Jonah       | Dirk     | Cepillado                                |
+| 496 | 2022-07-13     | Mesa Paris             | Hurrion     | Niven    | Armado                                   |
+| 497 | 2021-05-26     | Cama Kloster           | Lazyman     | John     | Listoneado                               |
+| 498 | 2020-10-27     | Cama Londres           | Stoll       | Kristan  | Emprolijado                              |
+| 499 | 2022-07-12     | Banco Paris            | Gianulli    | Tawsha   | Listoneado                               |
+| 499 | 2022-07-12     | Banco Paris            | Lazyman     | John     | Colocación de herrajes                   |
+| 499 | 2022-07-12     | Banco Paris            | Stoll       | Kristan  | Encolado                                 |
+| 501 | 2021-12-22     | Silla Roma             | De Filippis | Rhodia   | Cepillado                                |
+| 501 | 2021-12-22     | Silla Roma             | Oxby        | Adina    | Encolado                                 |
+| 501 | 2021-12-22     | Silla Roma             | Pedrollo    | Jay      | Terminación final                        |
+| 502 | 2021-03-27     | Biblioteca Roma        | Cobello     | Webb     | Encolado                                 |
+| 503 | 2021-04-27     | Silla Paris            | Imesson     | Barde    | Lizado,Masillado                         |
+| 503 | 2021-04-27     | Silla Paris            | Lazyman     | John     | Ensamblado                               |
+| 503 | 2021-04-27     | Silla Paris            | Mumbey      | Darda    | Encolado                                 |
+| 505 | 2020-12-29     | Mesa Tokio             | Gianulli    | Tawsha   | Encolado                                 |
+| 505 | 2020-12-29     | Mesa Tokio             | Pedrollo    | Jay      | Emprolijado                              |
+| 506 | 2021-04-26     | Escritorio Kloster     | Dominy      | Abram    | Terminación final                        |
+| 506 | 2021-04-26     | Escritorio Kloster     | Hurrion     | Niven    | Pintado                                  |
+| 507 | 2022-06-03     | Comoda Londres         | Cobello     | Webb     | Cepillado                                |
+| 507 | 2022-06-03     | Comoda Londres         | Deackes     | Dorthea  | Armado                                   |
+| 508 | 2021-06-11     | Comoda Paris           | Dallas      | Ramsay   | Trozado                                  |
+| 509 | 2020-05-18     | Cama Kloster           | Goodworker  | Juan     | Pulido                                   |
+| 509 | 2020-05-18     | Cama Kloster           | Mumbey      | Darda    | Armado                                   |
+| 512 | 2020-05-05     | Silla Roma             | MacGorrie   | Datha    | Pintado                                  |
+| 513 | 2020-11-06     | Mesa Londres           | Aburrow     | My       | Pulido                                   |
+| 515 | 2020-11-30     | Silla Roma             | Deackes     | Dorthea  | Emprolijado                              |
+| 515 | 2020-11-30     | Silla Roma             | Stoll       | Kristan  | Pintado                                  |
+| 516 | 2021-03-16     | Silla Londres          | Imesson     | Barde    | Terminación final                        |
+| 518 | 2020-12-11     | Mesa de luz Nueva York | Dominy      | Abram    | Ensamblado                               |
+| 518 | 2020-12-11     | Mesa de luz Nueva York | Stoll       | Kristan  | Cepillado                                |
+| 518 | 2020-12-11     | Mesa de luz Nueva York | Stutter     | Kelcey   | Ensamblado                               |
+| 524 | 2022-08-15     | Escritorio Nueva York  | Stoll       | Kristan  | Cepillado                                |
+| 528 | 2021-03-22     | Mesa Londres           | Gianulli    | Tawsha   | Masillado                                |
+| 528 | 2021-03-22     | Mesa Londres           | Hurrion     | Niven    | Pulido                                   |
+| 529 | 2020-12-31     | Silla Tokio            | Cobello     | Webb     | Ensamblado                               |
+| 529 | 2020-12-31     | Silla Tokio            | Stutter     | Kelcey   | Masillado                                |
+| 530 | 2022-04-21     | Cama Tokio             | Dallas      | Ramsay   | Emprolijado                              |
+| 531 | 2020-08-06     | Banco Nueva York       | Cobello     | Webb     | Trozado                                  |
+| 532 | 2021-07-15     | Silla Nueva York       | Oxby        | Adina    | Emprolijado                              |
+| 533 | 2021-11-03     | Silla Roma             | Lazyman     | John     | Emprolijado                              |
+| 534 | 2022-07-08     | Mesa Londres           | Hatto       | Giovanni | Trozado                                  |
+| 536 | 2020-12-19     | Banco Kloster          | Mumbey      | Darda    | Emprolijado                              |
+| 537 | 2022-02-19     | Banco Tokio            | Gigg        | Saunder  | Pintado                                  |
+| 537 | 2022-02-19     | Banco Tokio            | Snowball    | Deanne   | Pulido                                   |
+| 540 | 2021-02-03     | Banco Roma             | Stoll       | Kristan  | Ensamblado                               |
+| 540 | 2021-02-03     | Banco Roma             | Stutter     | Kelcey   | Trozado                                  |
+| 545 | 2022-07-17     | Mesa Roma              | Dallas      | Ramsay   | Masillado                                |
+| 545 | 2022-07-17     | Mesa Roma              | Deackes     | Dorthea  | Pulido                                   |
+| 546 | 2020-04-21     | Banco Tokio            | Goodworker  | Juan     | Listoneado                               |
+| 546 | 2020-04-21     | Banco Tokio            | Hurrion     | Niven    | Terminación final                        |
+| 547 | 2022-07-17     | Silla Kloster          | MacGorrie   | Datha    | Armado,Pintado                           |
+| 549 | 2021-06-23     | Cama Roma              | MacGorrie   | Datha    | Pulido                                   |
+| 550 | 2021-08-05     | Mesa Londres           | Cobello     | Webb     | Encolado                                 |
+| 551 | 2022-07-03     | Cama Nueva York        | Aburrow     | My       | Lizado                                   |
+| 551 | 2022-07-03     | Cama Nueva York        | Lazyman     | John     | Pintado                                  |
+| 552 | 2020-04-03     | Comoda Paris           | Aburrow     | My       | Armado                                   |
+| 552 | 2020-04-03     | Comoda Paris           | Cobello     | Webb     | Cepillado                                |
+| 552 | 2020-04-03     | Comoda Paris           | Lazyman     | John     | Trozado                                  |
+| 555 | 2021-03-29     | Silla Nueva York       | Dallas      | Ramsay   | Trozado                                  |
+| 555 | 2021-03-29     | Silla Nueva York       | Jonah       | Dirk     | Pulido                                   |
+| 555 | 2021-03-29     | Silla Nueva York       | Oxby        | Adina    | Armado                                   |
+| 555 | 2021-03-29     | Silla Nueva York       | Stoll       | Kristan  | Lizado                                   |
+| 556 | 2022-04-18     | Escritorio Kloster     | Hurrion     | Niven    | Pulido                                   |
+| 556 | 2022-04-18     | Escritorio Kloster     | Jonah       | Dirk     | Trozado                                  |
+| 559 | 2022-02-27     | Biblioteca Paris       | Hurrion     | Niven    | Emprolijado                              |
+| 560 | 2021-02-03     | Comoda Tokio           | MacGorrie   | Datha    | Pintado                                  |
+| 560 | 2021-02-03     | Comoda Tokio           | Mumbey      | Darda    | Lizado                                   |
+| 563 | 2021-01-25     | Mesa Paris             | Pedrollo    | Jay      | Masillado                                |
+| 566 | 2020-07-21     | Escritorio Roma        | Hurrion     | Niven    | Masillado                                |
+| 567 | 2020-04-20     | Biblioteca Londres     | Pedrollo    | Jay      | Colocación de herrajes                   |
+| 567 | 2020-04-20     | Biblioteca Londres     | Stutter     | Kelcey   | Lizado                                   |
+| 568 | 2021-04-19     | Banco Kloster          | Dallas      | Ramsay   | Colocación de herrajes                   |
+| 568 | 2021-04-19     | Banco Kloster          | De Filippis | Rhodia   | Emprolijado,Colocación de herrajes       |
+| 571 | 2020-08-28     | Silla Paris            | Dominy      | Abram    | Lizado                                   |
+| 575 | 2021-07-03     | Comoda Tokio           | Mumbey      | Darda    | Emprolijado                              |
+| 576 | 2022-07-21     | Silla Tokio            | Jonah       | Dirk     | Ensamblado                               |
+| 578 | 2020-12-25     | Escritorio Londres     | Deackes     | Dorthea  | Lizado                                   |
+| 579 | 2021-02-17     | Mesa Nueva York        | Aburrow     | My       | Trozado                                  |
+| 581 | 2022-02-21     | Escritorio Paris       | Snowball    | Deanne   | Masillado                                |
+| 581 | 2022-02-21     | Escritorio Paris       | Stoll       | Kristan  | Trozado                                  |
+| 582 | 2021-06-24     | Comoda Londres         | Gianulli    | Tawsha   | Colocación de herrajes                   |
+| 582 | 2021-06-24     | Comoda Londres         | Imesson     | Barde    | Trozado                                  |
+| 583 | 2021-03-08     | Biblioteca Londres     | MacGorrie   | Datha    | Colocación de herrajes                   |
+| 584 | 2021-03-02     | Silla Londres          | Hurrion     | Niven    | Armado                                   |
+| 589 | 2020-09-01     | Silla Londres          | Gianulli    | Tawsha   | Ensamblado                               |
+| 589 | 2020-09-01     | Silla Londres          | Imesson     | Barde    | Trozado                                  |
+| 591 | 2022-06-16     | Biblioteca Roma        | De Filippis | Rhodia   | Masillado                                |
+| 593 | 2020-06-20     | Cama Roma              | Cobello     | Webb     | Pintado                                  |
+| 593 | 2020-06-20     | Cama Roma              | Hatto       | Giovanni | Cepillado                                |
+| 593 | 2020-06-20     | Cama Roma              | Stoll       | Kristan  | Listoneado                               |
+| 595 | 2020-07-06     | Comoda Londres         | Imesson     | Barde    | Colocación de herrajes                   |
+| 597 | 2022-03-15     | Comoda Londres         | Imesson     | Barde    | Trozado                                  |
+| 599 | 2021-01-11     | Mesa de luz Londres    | Deackes     | Dorthea  | Ensamblado                               |
+| 599 | 2021-01-11     | Mesa de luz Londres    | Hurrion     | Niven    | Pintado                                  |
+| 599 | 2021-01-11     | Mesa de luz Londres    | Lazyman     | John     | Colocación de herrajes                   |
+| 600 | 2021-04-08     | Silla Tokio            | Hurrion     | Niven    | Pintado                                  |
+| 602 | 2021-02-03     | Banco Tokio            | Gigg        | Saunder  | Masillado                                |
+| 602 | 2021-02-03     | Banco Tokio            | MacGorrie   | Datha    | Terminación final                        |
+| 603 | 2021-04-22     | Silla Tokio            | De Filippis | Rhodia   | Terminación final,Colocación de herrajes |
+| 603 | 2021-04-22     | Silla Tokio            | Stutter     | Kelcey   | Masillado                                |
+| 607 | 2021-08-26     | Banco Roma             | Pedrollo    | Jay      | Colocación de herrajes                   |
+| 608 | 2021-09-05     | Banco Nueva York       | Snowball    | Deanne   | Emprolijado                              |
+| 608 | 2021-09-05     | Banco Nueva York       | Stoll       | Kristan  | Terminación final                        |
+| 609 | 2021-09-03     | Mesa de luz Roma       | Lazyman     | John     | Emprolijado                              |
+| 610 | 2020-05-05     | Comoda Londres         | Pedrollo    | Jay      | Encolado                                 |
+| 615 | 2021-10-24     | Banco Londres          | Dallas      | Ramsay   | Armado                                   |
+| 615 | 2021-10-24     | Banco Londres          | Hatto       | Giovanni | Masillado                                |
+| 615 | 2021-10-24     | Banco Londres          | Snowball    | Deanne   | Pintado                                  |
+| 617 | 2022-02-18     | Escritorio Roma        | Goodworker  | Juan     | Trozado                                  |
+| 618 | 2021-09-27     | Comoda Londres         | Hurrion     | Niven    | Terminación final                        |
+| 619 | 2022-05-05     | Mesa Roma              | Goodworker  | Juan     | Armado                                   |
+| 620 | 2021-08-17     | Biblioteca Paris       | Lazyman     | John     | Pulido                                   |
+| 621 | 2021-02-09     | Comoda Paris           | Gianulli    | Tawsha   | Pintado                                  |
+| 621 | 2021-02-09     | Comoda Paris           | Imesson     | Barde    | Listoneado                               |
+| 623 | 2020-05-14     | Cama Nueva York        | Hurrion     | Niven    | Emprolijado                              |
+| 623 | 2020-05-14     | Cama Nueva York        | Pedrollo    | Jay      | Masillado                                |
+| 623 | 2020-05-14     | Cama Nueva York        | Snowball    | Deanne   | Pintado                                  |
+| 624 | 2021-05-02     | Cama Roma              | Stutter     | Kelcey   | Cepillado                                |
+| 625 | 2021-07-06     | Mesa de luz Paris      | Gigg        | Saunder  | Lizado                                   |
+| 625 | 2021-07-06     | Mesa de luz Paris      | Goodworker  | Juan     | Trozado                                  |
+| 626 | 2022-03-01     | Mesa de luz Londres    | Cobello     | Webb     | Listoneado                               |
+| 626 | 2022-03-01     | Mesa de luz Londres    | Dallas      | Ramsay   | Pulido                                   |
+| 628 | 2020-08-31     | Cama Nueva York        | De Filippis | Rhodia   | Emprolijado                              |
+| 629 | 2022-01-20     | Biblioteca Londres     | Goodworker  | Juan     | Masillado                                |
+| 629 | 2022-01-20     | Biblioteca Londres     | Imesson     | Barde    | Masillado                                |
+| 629 | 2022-01-20     | Biblioteca Londres     | Stoll       | Kristan  | Masillado                                |
+| 630 | 2022-06-16     | Banco Nueva York       | De Filippis | Rhodia   | Terminación final                        |
+| 631 | 2020-05-15     | Escritorio Paris       | Pedrollo    | Jay      | Listoneado                               |
+| 633 | 2020-06-14     | Cama Paris             | Cobello     | Webb     | Lizado                                   |
+| 633 | 2020-06-14     | Cama Paris             | Lazyman     | John     | Encolado                                 |
+| 634 | 2021-07-29     | Comoda Londres         | Gigg        | Saunder  | Terminación final                        |
+| 635 | 2021-02-21     | Cama Tokio             | Stutter     | Kelcey   | Trozado                                  |
+| 637 | 2020-11-14     | Escritorio Roma        | Imesson     | Barde    | Lizado,Emprolijado                       |
+| 637 | 2020-11-14     | Escritorio Roma        | Jonah       | Dirk     | Cepillado                                |
+| 637 | 2020-11-14     | Escritorio Roma        | Stutter     | Kelcey   | Masillado                                |
+| 638 | 2021-06-26     | Escritorio Nueva York  | Goodworker  | Juan     | Pulido                                   |
+| 646 | 2020-04-05     | Mesa de luz Nueva York | De Filippis | Rhodia   | Encolado                                 |
+| 646 | 2020-04-05     | Mesa de luz Nueva York | Gianulli    | Tawsha   | Pintado                                  |
+| 647 | 2022-06-03     | Silla Roma             | Cobello     | Webb     | Pintado                                  |
+| 649 | 2021-12-16     | Silla Paris            | Cobello     | Webb     | Listoneado                               |
+| 649 | 2021-12-16     | Silla Paris            | Deackes     | Dorthea  | Lizado                                   |
+| 650 | 2021-09-20     | Cama Nueva York        | MacGorrie   | Datha    | Colocación de herrajes                   |
+| 653 | 2020-09-29     | Cama Tokio             | Pedrollo    | Jay      | Pintado                                  |
+| 655 | 2021-10-22     | Silla Nueva York       | Dominy      | Abram    | Terminación final                        |
+| 658 | 2021-08-26     | Banco Londres          | Goodworker  | Juan     | Cepillado                                |
+| 660 | 2021-12-25     | Biblioteca Tokio       | Aburrow     | My       | Pintado                                  |
+| 660 | 2021-12-25     | Biblioteca Tokio       | Dallas      | Ramsay   | Lizado                                   |
+| 660 | 2021-12-25     | Biblioteca Tokio       | Mumbey      | Darda    | Armado                                   |
+| 660 | 2021-12-25     | Biblioteca Tokio       | Stoll       | Kristan  | Encolado                                 |
+| 661 | 2021-09-30     | Mesa de luz Tokio      | Lazyman     | John     | Pintado                                  |
+| 662 | 2020-09-13     | Silla Roma             | Gianulli    | Tawsha   | Armado                                   |
+| 663 | 2020-05-15     | Comoda Londres         | Stoll       | Kristan  | Cepillado                                |
+| 667 | 2020-04-18     | Mesa de luz Paris      | Deackes     | Dorthea  | Cepillado                                |
+| 669 | 2020-11-13     | Mesa Roma              | Gianulli    | Tawsha   | Lizado                                   |
+| 669 | 2020-11-13     | Mesa Roma              | Hatto       | Giovanni | Encolado                                 |
+| 669 | 2020-11-13     | Mesa Roma              | Snowball    | Deanne   | Armado                                   |
+| 671 | 2020-08-26     | Silla Kloster          | Goodworker  | Juan     | Terminación final                        |
+| 673 | 2022-06-15     | Cama Kloster           | Hurrion     | Niven    | Listoneado                               |
+| 673 | 2022-06-15     | Cama Kloster           | Pedrollo    | Jay      | Pintado                                  |
+| 674 | 2021-05-10     | Biblioteca Roma        | Jonah       | Dirk     | Masillado                                |
+| 674 | 2021-05-10     | Biblioteca Roma        | Snowball    | Deanne   | Trozado                                  |
+| 675 | 2021-08-01     | Banco Tokio            | Gianulli    | Tawsha   | Pintado                                  |
+| 677 | 2021-09-23     | Mesa Tokio             | Jonah       | Dirk     | Lizado                                   |
+| 678 | 2020-11-26     | Mesa Nueva York        | Mumbey      | Darda    | Cepillado                                |
+| 678 | 2020-11-26     | Mesa Nueva York        | Stutter     | Kelcey   | Terminación final                        |
+| 679 | 2021-08-09     | Silla Nueva York       | Dominy      | Abram    | Pintado                                  |
+| 680 | 2020-07-31     | Banco Tokio            | Gigg        | Saunder  | Pulido                                   |
+| 682 | 2021-06-05     | Mesa de luz Londres    | Deackes     | Dorthea  | Terminación final                        |
+| 683 | 2021-02-17     | Biblioteca Tokio       | Stoll       | Kristan  | Ensamblado                               |
+| 684 | 2020-03-29     | Mesa de luz Roma       | Stoll       | Kristan  | Pintado                                  |
+| 686 | 2021-12-22     | Mesa de luz Tokio      | Stutter     | Kelcey   | Armado                                   |
+| 688 | 2021-05-30     | Cama Tokio             | MacGorrie   | Datha    | Pintado                                  |
+| 688 | 2021-05-30     | Cama Tokio             | Snowball    | Deanne   | Pintado                                  |
+| 689 | 2020-11-01     | Silla Tokio            | Stutter     | Kelcey   | Ensamblado                               |
+| 690 | 2022-03-24     | Cama Tokio             | Gianulli    | Tawsha   | Trozado                                  |
+| 690 | 2022-03-24     | Cama Tokio             | Goodworker  | Juan     | Ensamblado                               |
+| 696 | 2021-04-04     | Mesa Roma              | Hurrion     | Niven    | Armado                                   |
+| 697 | 2021-12-19     | Silla Roma             | Mumbey      | Darda    | Emprolijado                              |
+| 698 | 2021-01-26     | Comoda Roma            | Dominy      | Abram    | Masillado                                |
+| 703 | 2021-05-25     | Escritorio Kloster     | Gianulli    | Tawsha   | Ensamblado                               |
+| 703 | 2021-05-25     | Escritorio Kloster     | Imesson     | Barde    | Armado                                   |
+| 704 | 2022-07-05     | Escritorio Nueva York  | Deackes     | Dorthea  | Listoneado                               |
+| 704 | 2022-07-05     | Escritorio Nueva York  | Hatto       | Giovanni | Cepillado                                |
+| 706 | 2020-04-07     | Biblioteca Kloster     | Gigg        | Saunder  | Colocación de herrajes                   |
+| 707 | 2021-10-19     | Mesa Tokio             | Dallas      | Ramsay   | Pulido                                   |
+| 707 | 2021-10-19     | Mesa Tokio             | Dominy      | Abram    | Pulido                                   |
+| 707 | 2021-10-19     | Mesa Tokio             | Goodworker  | Juan     | Trozado                                  |
+| 708 | 2020-09-29     | Mesa de luz Londres    | De Filippis | Rhodia   | Pulido                                   |
+| 708 | 2020-09-29     | Mesa de luz Londres    | Gigg        | Saunder  | Listoneado                               |
+| 709 | 2022-08-18     | Mesa Paris             | Gianulli    | Tawsha   | Cepillado                                |
+| 710 | 2022-02-21     | Biblioteca Roma        | Hurrion     | Niven    | Emprolijado                              |
+| 711 | 2020-09-16     | Mesa Paris             | Stutter     | Kelcey   | Trozado                                  |
+| 713 | 2020-11-20     | Biblioteca Kloster     | Gianulli    | Tawsha   | Ensamblado                               |
+| 713 | 2020-11-20     | Biblioteca Kloster     | Goodworker  | Juan     | Encolado                                 |
+| 714 | 2021-12-14     | Biblioteca Kloster     | Dominy      | Abram    | Cepillado                                |
+| 714 | 2021-12-14     | Biblioteca Kloster     | Lazyman     | John     | Lizado                                   |
+| 715 | 2021-01-11     | Escritorio Londres     | Hurrion     | Niven    | Encolado                                 |
+| 715 | 2021-01-11     | Escritorio Londres     | Pedrollo    | Jay      | Ensamblado                               |
+| 717 | 2022-03-29     | Mesa Kloster           | Lazyman     | John     | Masillado                                |
+| 718 | 2021-10-07     | Comoda Roma            | Snowball    | Deanne   | Pintado                                  |
+| 719 | 2020-06-13     | Biblioteca Roma        | Jonah       | Dirk     | Pulido                                   |
+| 721 | 2022-06-15     | Banco Tokio            | Gigg        | Saunder  | Encolado                                 |
+| 722 | 2021-09-11     | Mesa de luz Londres    | Deackes     | Dorthea  | Lizado                                   |
+| 722 | 2021-09-11     | Mesa de luz Londres    | Dominy      | Abram    | Masillado                                |
+| 722 | 2021-09-11     | Mesa de luz Londres    | Lazyman     | John     | Masillado                                |
+| 722 | 2021-09-11     | Mesa de luz Londres    | Oxby        | Adina    | Terminación final                        |
+| 723 | 2021-05-10     | Mesa de luz Londres    | Gianulli    | Tawsha   | Colocación de herrajes                   |
+| 723 | 2021-05-10     | Mesa de luz Londres    | Stoll       | Kristan  | Listoneado                               |
+| 724 | 2022-05-24     | Mesa Tokio             | Hurrion     | Niven    | Lizado                                   |
+| 725 | 2020-03-28     | Escritorio Tokio       | Stoll       | Kristan  | Pintado                                  |
+| 725 | 2020-03-28     | Escritorio Tokio       | Stutter     | Kelcey   | Ensamblado,Masillado                     |
+| 726 | 2022-05-10     | Silla Nueva York       | Cobello     | Webb     | Armado                                   |
+| 726 | 2022-05-10     | Silla Nueva York       | Mumbey      | Darda    | Cepillado                                |
+| 726 | 2022-05-10     | Silla Nueva York       | Oxby        | Adina    | Trozado                                  |
+| 727 | 2022-06-27     | Mesa de luz Nueva York | Hurrion     | Niven    | Trozado                                  |
+| 729 | 2020-07-31     | Silla Roma             | Aburrow     | My       | Colocación de herrajes                   |
+| 730 | 2022-02-14     | Cama Kloster           | Gigg        | Saunder  | Masillado                                |
+| 730 | 2022-02-14     | Cama Kloster           | Oxby        | Adina    | Ensamblado                               |
+| 731 | 2020-12-17     | Cama Nueva York        | Stutter     | Kelcey   | Colocación de herrajes                   |
+| 732 | 2020-12-26     | Escritorio Nueva York  | Lazyman     | John     | Lizado                                   |
+| 733 | 2021-04-08     | Silla Londres          | Snowball    | Deanne   | Listoneado                               |
+| 734 | 2022-01-27     | Silla Paris            | Dallas      | Ramsay   | Armado                                   |
+| 736 | 2020-04-17     | Cama Nueva York        | Stoll       | Kristan  | Pintado                                  |
+| 737 | 2020-04-22     | Silla Paris            | De Filippis | Rhodia   | Pintado                                  |
+| 738 | 2021-08-16     | Silla Paris            | Deackes     | Dorthea  | Terminación final                        |
+| 738 | 2021-08-16     | Silla Paris            | MacGorrie   | Datha    | Emprolijado                              |
+| 740 | 2021-02-07     | Cama Tokio             | Cobello     | Webb     | Ensamblado,Trozado                       |
+| 742 | 2021-02-24     | Banco Roma             | Gianulli    | Tawsha   | Encolado                                 |
+| 744 | 2021-02-12     | Mesa Tokio             | Hurrion     | Niven    | Listoneado                               |
+| 745 | 2021-12-08     | Silla Londres          | Goodworker  | Juan     | Pintado                                  |
+| 746 | 2022-02-26     | Silla Londres          | Gigg        | Saunder  | Cepillado                                |
+| 746 | 2022-02-26     | Silla Londres          | Hatto       | Giovanni | Colocación de herrajes                   |
+| 747 | 2020-11-27     | Banco Roma             | Deackes     | Dorthea  | Colocación de herrajes                   |
+| 747 | 2020-11-27     | Banco Roma             | Imesson     | Barde    | Pulido                                   |
+| 748 | 2020-09-07     | Banco Kloster          | Snowball    | Deanne   | Pintado                                  |
+| 751 | 2021-06-18     | Mesa de luz Paris      | Dallas      | Ramsay   | Pintado                                  |
+| 751 | 2021-06-18     | Mesa de luz Paris      | Deackes     | Dorthea  | Encolado                                 |
+| 751 | 2021-06-18     | Mesa de luz Paris      | Gigg        | Saunder  | Masillado                                |
+| 752 | 2021-11-20     | Escritorio Londres     | Stutter     | Kelcey   | Pulido,Masillado                         |
+| 753 | 2022-03-24     | Escritorio Kloster     | Dallas      | Ramsay   | Encolado                                 |
+| 756 | 2020-11-11     | Banco Kloster          | Cobello     | Webb     | Pintado                                  |
+| 756 | 2020-11-11     | Banco Kloster          | Deackes     | Dorthea  | Lizado                                   |
+| 756 | 2020-11-11     | Banco Kloster          | Gigg        | Saunder  | Lizado                                   |
+| 756 | 2020-11-11     | Banco Kloster          | Goodworker  | Juan     | Colocación de herrajes                   |
+| 757 | 2022-03-26     | Banco Tokio            | Gianulli    | Tawsha   | Listoneado                               |
+| 759 | 2020-05-11     | Comoda Nueva York      | Aburrow     | My       | Encolado                                 |
+| 759 | 2020-05-11     | Comoda Nueva York      | Snowball    | Deanne   | Ensamblado                               |
+| 761 | 2022-06-07     | Silla Londres          | Goodworker  | Juan     | Listoneado                               |
+| 761 | 2022-06-07     | Silla Londres          | Stoll       | Kristan  | Armado                                   |
+| 763 | 2021-07-16     | Banco Nueva York       | MacGorrie   | Datha    | Masillado                                |
+| 764 | 2021-04-21     | Mesa de luz Roma       | Stoll       | Kristan  | Cepillado                                |
+| 767 | 2021-08-20     | Mesa de luz Kloster    | Gigg        | Saunder  | Pulido                                   |
+| 768 | 2022-01-27     | Silla Londres          | Hatto       | Giovanni | Listoneado                               |
+| 769 | 2020-12-29     | Biblioteca Kloster     | MacGorrie   | Datha    | Colocación de herrajes                   |
+| 769 | 2020-12-29     | Biblioteca Kloster     | Snowball    | Deanne   | Listoneado                               |
+| 770 | 2021-12-25     | Silla Tokio            | Gianulli    | Tawsha   | Trozado                                  |
+| 770 | 2021-12-25     | Silla Tokio            | Gigg        | Saunder  | Emprolijado                              |
+| 771 | 2020-05-10     | Mesa de luz Paris      | Gigg        | Saunder  | Pulido                                   |
+| 773 | 2020-05-19     | Biblioteca Paris       | Imesson     | Barde    | Ensamblado                               |
+| 773 | 2020-05-19     | Biblioteca Paris       | Snowball    | Deanne   | Trozado                                  |
+| 774 | 2021-12-13     | Biblioteca Kloster     | Snowball    | Deanne   | Listoneado                               |
+| 775 | 2022-04-14     | Escritorio Kloster     | Stoll       | Kristan  | Emprolijado                              |
+| 776 | 2021-11-30     | Mesa de luz Londres    | Oxby        | Adina    | Encolado                                 |
+| 777 | 2021-11-08     | Mesa de luz Londres    | Imesson     | Barde    | Encolado                                 |
+| 777 | 2021-11-08     | Mesa de luz Londres    | Snowball    | Deanne   | Cepillado                                |
+| 779 | 2022-03-30     | Mesa Paris             | Dallas      | Ramsay   | Lizado                                   |
+| 779 | 2022-03-30     | Mesa Paris             | De Filippis | Rhodia   | Trozado                                  |
+| 779 | 2022-03-30     | Mesa Paris             | Oxby        | Adina    | Encolado                                 |
+| 780 | 2022-07-28     | Biblioteca Kloster     | Jonah       | Dirk     | Cepillado                                |
+| 780 | 2022-07-28     | Biblioteca Kloster     | Pedrollo    | Jay      | Masillado,Masillado                      |
+| 780 | 2022-07-28     | Biblioteca Kloster     | Stoll       | Kristan  | Armado                                   |
+| 782 | 2022-07-05     | Biblioteca Londres     | Gigg        | Saunder  | Encolado                                 |
+| 785 | 2020-07-25     | Silla Kloster          | Oxby        | Adina    | Pintado                                  |
+| 786 | 2022-02-25     | Mesa Nueva York        | Gianulli    | Tawsha   | Trozado                                  |
+| 786 | 2022-02-25     | Mesa Nueva York        | Stutter     | Kelcey   | Ensamblado                               |
+| 788 | 2020-09-03     | Silla Londres          | Goodworker  | Juan     | Pulido                                   |
+| 788 | 2020-09-03     | Silla Londres          | Mumbey      | Darda    | Pintado                                  |
+| 791 | 2021-12-20     | Escritorio Nueva York  | Imesson     | Barde    | Ensamblado                               |
+| 793 | 2021-12-04     | Biblioteca Nueva York  | De Filippis | Rhodia   | Emprolijado                              |
+| 793 | 2021-12-04     | Biblioteca Nueva York  | Oxby        | Adina    | Ensamblado                               |
+| 794 | 2022-07-13     | Mesa de luz Londres    | Hurrion     | Niven    | Pulido                                   |
+| 795 | 2020-10-28     | Cama Roma              | Deackes     | Dorthea  | Lizado                                   |
+| 796 | 2020-08-12     | Biblioteca Kloster     | Cobello     | Webb     | Masillado                                |
+| 796 | 2020-08-12     | Biblioteca Kloster     | Imesson     | Barde    | Encolado                                 |
+| 796 | 2020-08-12     | Biblioteca Kloster     | Mumbey      | Darda    | Encolado                                 |
+| 796 | 2020-08-12     | Biblioteca Kloster     | Pedrollo    | Jay      | Pulido                                   |
+| 797 | 2022-07-14     | Mesa Londres           | Snowball    | Deanne   | Masillado                                |
+| 798 | 2022-02-28     | Biblioteca Roma        | Dominy      | Abram    | Colocación de herrajes                   |
+| 799 | 2020-10-21     | Silla Londres          | Cobello     | Webb     | Ensamblado                               |
+| 800 | 2020-05-12     | Banco Paris            | Stutter     | Kelcey   | Pintado                                  |
+| 801 | 2020-07-12     | Banco Roma             | MacGorrie   | Datha    | Listoneado                               |
+| 802 | 2021-12-13     | Banco Paris            | Cobello     | Webb     | Terminación final                        |
+| 804 | 2021-02-17     | Silla Londres          | Hurrion     | Niven    | Listoneado                               |
+| 804 | 2021-02-17     | Silla Londres          | Jonah       | Dirk     | Emprolijado                              |
+| 805 | 2022-01-08     | Comoda Paris           | MacGorrie   | Datha    | Cepillado                                |
+| 807 | 2022-02-07     | Mesa Paris             | Mumbey      | Darda    | Colocación de herrajes                   |
+| 808 | 2020-06-07     | Banco Tokio            | Dallas      | Ramsay   | Ensamblado                               |
+| 809 | 2021-08-25     | Cama Kloster           | Gianulli    | Tawsha   | Terminación final                        |
+| 809 | 2021-08-25     | Cama Kloster           | Hatto       | Giovanni | Ensamblado                               |
+| 811 | 2020-05-16     | Mesa Paris             | Jonah       | Dirk     | Ensamblado                               |
+| 813 | 2022-05-25     | Mesa Roma              | De Filippis | Rhodia   | Listoneado                               |
+| 816 | 2021-07-16     | Mesa Roma              | Cobello     | Webb     | Pintado                                  |
+| 816 | 2021-07-16     | Mesa Roma              | De Filippis | Rhodia   | Ensamblado                               |
+| 816 | 2021-07-16     | Mesa Roma              | Goodworker  | Juan     | Colocación de herrajes                   |
+| 819 | 2022-08-20     | Biblioteca Kloster     | Goodworker  | Juan     | Terminación final                        |
+| 819 | 2022-08-20     | Biblioteca Kloster     | Hurrion     | Niven    | Ensamblado                               |
+| 820 | 2021-07-23     | Silla Londres          | Goodworker  | Juan     | Terminación final                        |
+| 820 | 2021-07-23     | Silla Londres          | Mumbey      | Darda    | Pulido                                   |
+| 820 | 2021-07-23     | Silla Londres          | Stutter     | Kelcey   | Cepillado                                |
+| 821 | 2022-05-06     | Silla Paris            | Imesson     | Barde    | Encolado                                 |
+| 821 | 2022-05-06     | Silla Paris            | Jonah       | Dirk     | Ensamblado                               |
+| 823 | 2021-04-28     | Silla Roma             | Lazyman     | John     | Pulido                                   |
+| 823 | 2021-04-28     | Silla Roma             | MacGorrie   | Datha    | Lizado                                   |
+| 824 | 2022-01-10     | Mesa Londres           | Aburrow     | My       | Ensamblado                               |
+| 824 | 2022-01-10     | Mesa Londres           | De Filippis | Rhodia   | Listoneado                               |
+| 824 | 2022-01-10     | Mesa Londres           | Oxby        | Adina    | Emprolijado                              |
+| 825 | 2021-06-20     | Banco Londres          | Aburrow     | My       | Lizado                                   |
+| 825 | 2021-06-20     | Banco Londres          | Goodworker  | Juan     | Cepillado                                |
+| 826 | 2020-12-25     | Escritorio Londres     | Stutter     | Kelcey   | Emprolijado,Pintado                      |
+| 829 | 2020-09-04     | Banco Tokio            | Gigg        | Saunder  | Listoneado                               |
+| 829 | 2020-09-04     | Banco Tokio            | Imesson     | Barde    | Ensamblado                               |
+| 830 | 2022-01-09     | Mesa de luz Roma       | Hurrion     | Niven    | Armado                                   |
+| 830 | 2022-01-09     | Mesa de luz Roma       | Oxby        | Adina    | Pulido                                   |
+| 832 | 2022-01-19     | Silla Kloster          | Dallas      | Ramsay   | Pintado                                  |
+| 832 | 2022-01-19     | Silla Kloster          | Oxby        | Adina    | Ensamblado                               |
+| 834 | 2020-10-19     | Comoda Roma            | Hatto       | Giovanni | Encolado                                 |
+| 834 | 2020-10-19     | Comoda Roma            | MacGorrie   | Datha    | Terminación final                        |
+| 838 | 2020-03-16     | Biblioteca Londres     | Oxby        | Adina    | Listoneado                               |
+| 839 | 2021-02-01     | Mesa Tokio             | Cobello     | Webb     | Pulido                                   |
+| 840 | 2020-12-11     | Mesa de luz Kloster    | Aburrow     | My       | Lizado                                   |
+| 840 | 2020-12-11     | Mesa de luz Kloster    | Imesson     | Barde    | Armado                                   |
+| 842 | 2020-04-20     | Banco Kloster          | Gigg        | Saunder  | Cepillado                                |
+| 842 | 2020-04-20     | Banco Kloster          | Hatto       | Giovanni | Ensamblado                               |
+| 844 | 2020-05-06     | Escritorio Tokio       | MacGorrie   | Datha    | Colocación de herrajes                   |
+| 845 | 2020-03-18     | Cama Nueva York        | Dominy      | Abram    | Cepillado                                |
+| 846 | 2022-05-19     | Mesa de luz Londres    | Cobello     | Webb     | Listoneado                               |
+| 846 | 2022-05-19     | Mesa de luz Londres    | Dallas      | Ramsay   | Armado                                   |
+| 847 | 2022-02-04     | Banco Paris            | Stoll       | Kristan  | Cepillado                                |
+| 851 | 2020-12-06     | Banco Tokio            | Dominy      | Abram    | Masillado                                |
+| 852 | 2022-08-23     | Comoda Roma            | Aburrow     | My       | Cepillado                                |
+| 852 | 2022-08-23     | Comoda Roma            | Deackes     | Dorthea  | Pintado                                  |
+| 852 | 2022-08-23     | Comoda Roma            | Stoll       | Kristan  | Terminación final                        |
+| 854 | 2021-08-24     | Banco Kloster          | Cobello     | Webb     | Pintado                                  |
+| 854 | 2021-08-24     | Banco Kloster          | Lazyman     | John     | Masillado                                |
+| 855 | 2022-05-10     | Escritorio Kloster     | Imesson     | Barde    | Colocación de herrajes                   |
+| 855 | 2022-05-10     | Escritorio Kloster     | Stoll       | Kristan  | Emprolijado                              |
+| 856 | 2020-07-31     | Comoda Tokio           | Lazyman     | John     | Cepillado                                |
+| 856 | 2020-07-31     | Comoda Tokio           | Mumbey      | Darda    | Masillado                                |
+| 857 | 2022-08-26     | Banco Kloster          | Dominy      | Abram    | Armado                                   |
+| 857 | 2022-08-26     | Banco Kloster          | Oxby        | Adina    | Armado                                   |
+| 859 | 2022-02-22     | Escritorio Kloster     | Dallas      | Ramsay   | Colocación de herrajes,Masillado         |
+| 859 | 2022-02-22     | Escritorio Kloster     | Gianulli    | Tawsha   | Ensamblado                               |
+| 861 | 2022-01-24     | Silla Nueva York       | Gianulli    | Tawsha   | Colocación de herrajes,Ensamblado        |
+| 861 | 2022-01-24     | Silla Nueva York       | Goodworker  | Juan     | Masillado                                |
+| 861 | 2022-01-24     | Silla Nueva York       | Jonah       | Dirk     | Cepillado                                |
+| 862 | 2022-03-23     | Escritorio Kloster     | De Filippis | Rhodia   | Colocación de herrajes                   |
+| 862 | 2022-03-23     | Escritorio Kloster     | Imesson     | Barde    | Masillado                                |
+| 863 | 2022-02-25     | Mesa Nueva York        | Aburrow     | My       | Colocación de herrajes                   |
+| 863 | 2022-02-25     | Mesa Nueva York        | Goodworker  | Juan     | Pintado                                  |
+| 864 | 2022-06-07     | Silla Tokio            | Goodworker  | Juan     | Trozado                                  |
+| 864 | 2022-06-07     | Silla Tokio            | Pedrollo    | Jay      | Colocación de herrajes                   |
+| 868 | 2021-08-18     | Mesa Paris             | Jonah       | Dirk     | Cepillado                                |
+| 872 | 2021-08-25     | Biblioteca Londres     | Cobello     | Webb     | Pulido                                   |
+| 874 | 2020-12-22     | Escritorio Paris       | Mumbey      | Darda    | Pulido                                   |
+| 879 | 2020-04-24     | Comoda Tokio           | Hurrion     | Niven    | Cepillado                                |
+| 883 | 2020-10-07     | Cama Kloster           | Gianulli    | Tawsha   | Pintado                                  |
+| 885 | 2020-04-17     | Silla Kloster          | Mumbey      | Darda    | Pintado                                  |
+| 886 | 2020-08-04     | Escritorio Paris       | Hatto       | Giovanni | Colocación de herrajes                   |
+| 887 | 2021-04-24     | Biblioteca Paris       | Dominy      | Abram    | Pulido                                   |
+| 888 | 2022-06-26     | Escritorio Londres     | Oxby        | Adina    | Colocación de herrajes                   |
+| 888 | 2022-06-26     | Escritorio Londres     | Stutter     | Kelcey   | Pintado                                  |
+| 889 | 2022-02-21     | Comoda Tokio           | Cobello     | Webb     | Armado                                   |
+| 889 | 2022-02-21     | Comoda Tokio           | Imesson     | Barde    | Trozado                                  |
+| 890 | 2020-09-07     | Banco Paris            | Goodworker  | Juan     | Lizado                                   |
+| 890 | 2020-09-07     | Banco Paris            | Stoll       | Kristan  | Pulido                                   |
+| 891 | 2020-04-03     | Mesa de luz Roma       | Deackes     | Dorthea  | Pintado                                  |
+| 892 | 2020-06-28     | Mesa de luz Kloster    | De Filippis | Rhodia   | Listoneado                               |
+| 893 | 2020-07-16     | Silla Londres          | De Filippis | Rhodia   | Emprolijado                              |
+| 893 | 2020-07-16     | Silla Londres          | Hatto       | Giovanni | Encolado                                 |
+| 893 | 2020-07-16     | Silla Londres          | Oxby        | Adina    | Masillado                                |
+| 894 | 2020-05-12     | Silla Roma             | Jonah       | Dirk     | Pintado                                  |
+| 896 | 2021-12-13     | Banco Tokio            | Dominy      | Abram    | Trozado                                  |
+| 896 | 2021-12-13     | Banco Tokio            | Gigg        | Saunder  | Colocación de herrajes                   |
+| 897 | 2020-07-12     | Comoda Roma            | Hurrion     | Niven    | Trozado                                  |
+| 898 | 2021-02-25     | Comoda Roma            | Deackes     | Dorthea  | Armado                                   |
+| 899 | 2021-08-11     | Silla Nueva York       | Deackes     | Dorthea  | Listoneado                               |
+| 899 | 2021-08-11     | Silla Nueva York       | Mumbey      | Darda    | Terminación final                        |
+| 899 | 2021-08-11     | Silla Nueva York       | Oxby        | Adina    | Listoneado                               |
+| 899 | 2021-08-11     | Silla Nueva York       | Stoll       | Kristan  | Encolado                                 |
+| 900 | 2021-12-21     | Silla Tokio            | Oxby        | Adina    | Ensamblado                               |
+| 903 | 2021-10-14     | Banco Londres          | Aburrow     | My       | Ensamblado                               |
+| 904 | 2020-12-25     | Biblioteca Paris       | Hatto       | Giovanni | Masillado                                |
+| 906 | 2022-04-14     | Biblioteca Paris       | Goodworker  | Juan     | Emprolijado                              |
+| 907 | 2022-04-06     | Banco Londres          | Goodworker  | Juan     | Colocación de herrajes                   |
+| 907 | 2022-04-06     | Banco Londres          | Stoll       | Kristan  | Pintado,Armado,Listoneado                |
+| 912 | 2021-06-06     | Biblioteca Nueva York  | Hurrion     | Niven    | Encolado                                 |
+| 912 | 2021-06-06     | Biblioteca Nueva York  | Mumbey      | Darda    | Masillado                                |
+| 914 | 2021-04-10     | Cama Kloster           | Cobello     | Webb     | Ensamblado                               |
+| 914 | 2021-04-10     | Cama Kloster           | De Filippis | Rhodia   | Listoneado                               |
+| 914 | 2021-04-10     | Cama Kloster           | Dominy      | Abram    | Ensamblado                               |
+| 916 | 2022-06-06     | Silla Kloster          | Aburrow     | My       | Masillado                                |
+| 916 | 2022-06-06     | Silla Kloster          | Stutter     | Kelcey   | Listoneado                               |
+| 918 | 2022-04-07     | Cama Tokio             | Pedrollo    | Jay      | Trozado                                  |
+| 919 | 2022-07-25     | Comoda Londres         | Dallas      | Ramsay   | Listoneado                               |
+| 919 | 2022-07-25     | Comoda Londres         | Oxby        | Adina    | Listoneado                               |
+| 921 | 2022-04-29     | Mesa de luz Kloster    | Hurrion     | Niven    | Emprolijado                              |
+| 921 | 2022-04-29     | Mesa de luz Kloster    | Stutter     | Kelcey   | Lizado                                   |
+| 922 | 2021-06-08     | Cama Roma              | Hurrion     | Niven    | Ensamblado                               |
+| 923 | 2021-09-28     | Biblioteca Nueva York  | Cobello     | Webb     | Armado                                   |
+| 924 | 2020-06-21     | Cama Roma              | Hatto       | Giovanni | Masillado                                |
+| 927 | 2022-07-27     | Banco Londres          | Stoll       | Kristan  | Pulido                                   |
+| 929 | 2022-03-07     | Silla Tokio            | Gianulli    | Tawsha   | Terminación final                        |
+| 930 | 2021-12-26     | Escritorio Tokio       | Jonah       | Dirk     | Listoneado                               |
+| 931 | 2021-02-06     | Mesa Tokio             | Gigg        | Saunder  | Pintado                                  |
+| 931 | 2021-02-06     | Mesa Tokio             | Imesson     | Barde    | Pintado                                  |
+| 931 | 2021-02-06     | Mesa Tokio             | Mumbey      | Darda    | Encolado                                 |
+| 933 | 2021-12-07     | Mesa Kloster           | Hatto       | Giovanni | Masillado                                |
+| 934 | 2021-10-15     | Silla Nueva York       | Jonah       | Dirk     | Encolado                                 |
+| 935 | 2021-08-30     | Cama Tokio             | Hurrion     | Niven    | Lizado                                   |
+| 936 | 2021-10-03     | Escritorio Tokio       | Cobello     | Webb     | Encolado                                 |
+| 937 | 2020-09-05     | Silla Tokio            | De Filippis | Rhodia   | Cepillado                                |
+| 937 | 2020-09-05     | Silla Tokio            | Jonah       | Dirk     | Pulido                                   |
+| 937 | 2020-09-05     | Silla Tokio            | Oxby        | Adina    | Pintado                                  |
+| 938 | 2021-09-14     | Escritorio Nueva York  | De Filippis | Rhodia   | Armado                                   |
+| 939 | 2020-03-19     | Banco Paris            | De Filippis | Rhodia   | Pintado                                  |
+| 939 | 2020-03-19     | Banco Paris            | Hurrion     | Niven    | Encolado                                 |
+| 940 | 2022-04-30     | Mesa de luz Tokio      | Pedrollo    | Jay      | Pulido                                   |
+| 943 | 2020-05-30     | Banco Tokio            | Imesson     | Barde    | Lizado                                   |
+| 943 | 2020-05-30     | Banco Tokio            | Pedrollo    | Jay      | Colocación de herrajes                   |
+| 945 | 2022-02-20     | Cama Roma              | Hurrion     | Niven    | Encolado                                 |
+| 948 | 2021-08-12     | Silla Nueva York       | Deackes     | Dorthea  | Colocación de herrajes                   |
+| 949 | 2020-12-05     | Comoda Londres         | Goodworker  | Juan     | Emprolijado                              |
+| 950 | 2020-07-27     | Escritorio Paris       | Stoll       | Kristan  | Emprolijado                              |
+| 952 | 2021-11-06     | Biblioteca Nueva York  | De Filippis | Rhodia   | Lizado                                   |
+| 952 | 2021-11-06     | Biblioteca Nueva York  | Imesson     | Barde    | Lizado                                   |
+| 953 | 2021-02-16     | Silla Tokio            | Snowball    | Deanne   | Encolado                                 |
+| 956 | 2020-08-03     | Banco Tokio            | Mumbey      | Darda    | Lizado                                   |
+| 957 | 2022-07-11     | Cama Nueva York        | De Filippis | Rhodia   | Encolado                                 |
+| 957 | 2022-07-11     | Cama Nueva York        | Oxby        | Adina    | Armado                                   |
+| 958 | 2020-10-01     | Escritorio Roma        | De Filippis | Rhodia   | Pulido                                   |
+| 959 | 2022-04-25     | Silla Roma             | Cobello     | Webb     | Pulido                                   |
+| 960 | 2021-07-23     | Silla Nueva York       | Dominy      | Abram    | Lizado                                   |
+| 963 | 2022-08-15     | Silla Paris            | Pedrollo    | Jay      | Trozado                                  |
+| 965 | 2020-11-13     | Mesa de luz Nueva York | Dallas      | Ramsay   | Pulido                                   |
+| 966 | 2021-02-12     | Comoda Londres         | Dallas      | Ramsay   | Emprolijado                              |
+| 966 | 2021-02-12     | Comoda Londres         | Oxby        | Adina    | Pulido                                   |
+| 967 | 2020-04-07     | Banco Tokio            | MacGorrie   | Datha    | Trozado                                  |
+| 967 | 2020-04-07     | Banco Tokio            | Mumbey      | Darda    | Lizado                                   |
+| 968 | 2022-05-24     | Mesa de luz Paris      | Gianulli    | Tawsha   | Emprolijado                              |
+| 968 | 2022-05-24     | Mesa de luz Paris      | Hatto       | Giovanni | Emprolijado                              |
+| 969 | 2021-01-21     | Silla Tokio            | Deackes     | Dorthea  | Terminación final                        |
+| 971 | 2020-09-10     | Escritorio Roma        | Oxby        | Adina    | Masillado                                |
+| 973 | 2021-06-02     | Cama Londres           | Hurrion     | Niven    | Terminación final                        |
+| 973 | 2021-06-02     | Cama Londres           | Imesson     | Barde    | Masillado                                |
+| 974 | 2020-12-28     | Banco Tokio            | Goodworker  | Juan     | Terminación final                        |
+| 975 | 2022-03-03     | Cama Roma              | Cobello     | Webb     | Encolado                                 |
+| 977 | 2021-10-22     | Escritorio Paris       | Imesson     | Barde    | Cepillado                                |
+| 978 | 2020-03-13     | Silla Kloster          | Dallas      | Ramsay   | Ensamblado                               |
+| 978 | 2020-03-13     | Silla Kloster          | Snowball    | Deanne   | Colocación de herrajes                   |
+| 981 | 2021-06-21     | Silla Londres          | Dallas      | Ramsay   | Armado                                   |
+| 981 | 2021-06-21     | Silla Londres          | Deackes     | Dorthea  | Encolado                                 |
+| 982 | 2022-01-07     | Banco Paris            | Stoll       | Kristan  | Encolado                                 |
+| 984 | 2022-03-27     | Biblioteca Roma        | Goodworker  | Juan     | Emprolijado                              |
+| 985 | 2021-05-27     | Silla Londres          | Deackes     | Dorthea  | Pulido                                   |
+| 986 | 2021-09-23     | Banco Londres          | Snowball    | Deanne   | Pintado                                  |
+| 987 | 2022-07-22     | Silla Londres          | Dominy      | Abram    | Emprolijado                              |
+| 988 | 2021-12-01     | Comoda Tokio           | Cobello     | Webb     | Pulido                                   |
+| 988 | 2021-12-01     | Comoda Tokio           | Jonah       | Dirk     | Colocación de herrajes                   |
+| 989 | 2020-06-27     | Mesa de luz Kloster    | Gianulli    | Tawsha   | Ensamblado                               |
+| 989 | 2020-06-27     | Mesa de luz Kloster    | Oxby        | Adina    | Listoneado                               |
+| 990 | 2021-01-28     | Silla Nueva York       | Hurrion     | Niven    | Trozado                                  |
+| 991 | 2021-01-19     | Silla Roma             | Oxby        | Adina    | Emprolijado                              |
+| 996 | 2020-10-30     | Cama Kloster           | Snowball    | Deanne   | Emprolijado                              |
+| 997 | 2022-04-17     | Escritorio Paris       | Gigg        | Saunder  | Emprolijado                              |
+| 998 | 2022-08-06     | Silla Tokio            | Hatto       | Giovanni | Listoneado                               |
+| 998 | 2022-08-06     | Silla Tokio            | Hurrion     | Niven    | Colocación de herrajes                   |
++-----+----------------+------------------------+-------------+----------+------------------------------------------+
+
+12
+
++-------------+
+| Descripcion |
++-------------+
+| Cama Paris  |
+| Banco Paris |
++-------------+
+
+13
+
++----------------+
+|  Descripcion   |
++----------------+
+| Comoda Kloster |
++----------------+
+
+14
+
++-------------+-----------+
+|  Apellidos  |  Nombres  |
++-------------+-----------+
+| Davion      | Reginauld |
+| Demkowicz   | Julianna  |
+| Gealle      | Darryl    |
+| Gueste      | Munroe    |
+| Harms       | Vail      |
+| Horrell     | Ailey     |
+| McGeouch    | Jehu      |
+| O'Scanlan   | Orin      |
+| Peddie      | Joanie    |
+| Roffe       | Blaire    |
+| Rowling     | Esme      |
+| Sans        | Kirbee    |
+| Skipper     | Devland   |
+| Sollom      | Minetta   |
+| Thrush      | Calley    |
+| Tollerfield | Cash      |
++-------------+-----------+
+

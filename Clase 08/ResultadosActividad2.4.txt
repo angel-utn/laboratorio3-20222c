@@ -480,18 +480,46 @@
 
 3
 
-+-----+-----------+-----------+-----------------------------------+--------------+--------------+-------------+--------+
-| ID  | Apellidos |  Nombres  |               Mail                |   Telefono   |   Celular    | RegistroWeb | Estado |
-+-----+-----------+-----------+-----------------------------------+--------------+--------------+-------------+--------+
-| 101 | Simon     | Angel     | asimon@docentes.frgp.utn.edu.ar   | NULL         | 444-618-8458 |           1 |      1 |
-|  47 | Clunie    | Rayner    | rclunie1a@linkedin.com            | 168-593-0325 | 330-244-1559 |           1 |      0 |
-|  22 | Hucks     | Marlo     | NULL                              | NULL         | 314-497-0283 |           0 |      0 |
-|  33 | Foggo     | Carry     | cfoggow@yale.edu                  | 248-833-6803 | NULL         |           1 |      0 |
-| 102 | Lara      | Brian     | blara@docentes.frgp.utn.edu.ar    | NULL         | 455-618-8458 |           1 |      1 |
-|  71 | Skipper   | Devland   | dskipper1y@networkadvertising.org | NULL         | 103-354-9438 |           0 |      0 |
-| 103 | Kloster   | Daniel    | dkloster@docentes.frgp.utn.edu.ar | NULL         | 466-618-8458 |           1 |      1 |
-|   8 | Davion    | Reginauld | rdavion7@huffingtonpost.com       | NULL         | 837-669-5736 |           0 |      1 |
-+-----+-----------+-----------+-----------------------------------+--------------+--------------+-------------+--------+
+
++-----+-------------+-----------+------------------------------------+--------------+--------------+-------------+--------+
+| ID  |  Apellidos  |  Nombres  |                Mail                |   Telefono   |   Celular    | RegistroWeb | Estado |
++-----+-------------+-----------+------------------------------------+--------------+--------------+-------------+--------+
+|   5 | Blazewski   | Richy     | rblazewski4@liveinternet.ru        | 307-288-0149 | 960-594-9378 |           1 |      0 |
+|   8 | Davion      | Reginauld | rdavion7@huffingtonpost.com        | NULL         | 837-669-5736 |           0 |      1 |
+|  13 | Tollerfield | Cash      | ctollerfieldc@virginia.edu         | 449-149-9146 | NULL         |           1 |      1 |
+|  15 | Dunnico     | Devin     | ddunnicoe@so-net.ne.jp             | NULL         | 966-264-3673 |           1 |      1 |
+|  16 | Quaife      | Elsey     | equaifef@unc.edu                   | NULL         | NULL         |           0 |      0 |
+|  21 | Pauli       | Sebastian | spaulik@apple.com                  | NULL         | 969-952-0643 |           1 |      1 |
+|  22 | Hucks       | Marlo     | NULL                               | NULL         | 314-497-0283 |           0 |      0 |
+|  24 | Chadbourn   | Luis      | lchadbournn@altervista.org         | 132-559-3992 | 121-277-0228 |           1 |      1 |
+|  25 | Dyble       | Manuel    | mdybleo@psu.edu                    | NULL         | NULL         |           0 |      1 |
+|  27 | Sollom      | Minetta   | NULL                               | 873-426-7869 | NULL         |           0 |      0 |
+|  33 | Foggo       | Carry     | cfoggow@yale.edu                   | 248-833-6803 | NULL         |           1 |      0 |
+|  35 | Congram     | Fancie    | fcongramy@naver.com                | 961-217-2029 | NULL         |           1 |      1 |
+|  38 | Billinge    | Adams     | abillinge11@cbc.ca                 | NULL         | NULL         |           0 |      0 |
+|  44 | Fishly      | Jaymie    | jfishly17@wikipedia.org            | NULL         | 397-135-5529 |           1 |      0 |
+|  46 | Ferrelli    | Brooke    | bferrelli19@upenn.edu              | NULL         | 992-670-0878 |           1 |      0 |
+|  47 | Clunie      | Rayner    | rclunie1a@linkedin.com             | 168-593-0325 | 330-244-1559 |           1 |      0 |
+|  55 | Skones      | Deanna    | dskones1i@slate.com                | 925-790-2348 | 964-571-6679 |           1 |      0 |
+|  56 | Soles       | Alphonso  | asoles1j@yahoo.co.jp               | NULL         | 945-798-3853 |           1 |      1 |
+|  58 | Sreenan     | Brade     | bsreenan1l@sciencedirect.com       | 139-293-8285 | 117-745-8610 |           1 |      0 |
+|  59 | Widmoor     | Stacy     | swidmoor1m@salon.com               | NULL         | NULL         |           0 |      0 |
+|  64 | Letch       | Candy     | cletch1r@opensource.org            | NULL         | 914-856-4127 |           1 |      1 |
+|  65 | Dowry       | Abbey     | adowry1s@salon.com                 | 742-855-7961 | 223-872-7925 |           0 |      0 |
+|  67 | Shury       | Craggie   | cshury1u@spotify.com               | NULL         | NULL         |           0 |      1 |
+|  71 | Skipper     | Devland   | dskipper1y@networkadvertising.org  | NULL         | 103-354-9438 |           0 |      0 |
+|  73 | Shilston    | Normy     | NULL                               | NULL         | 480-966-5684 |           0 |      0 |
+|  75 | Royden      | Nat       | nroyden22@arizona.edu              | NULL         | NULL         |           0 |      1 |
+|  77 | Terzi       | Mychal    | mterzi24@usa.gov                   | 316-872-8382 | NULL         |           1 |      1 |
+|  82 | Dicty       | Florella  | fdicty29@upenn.edu                 | 507-991-0016 | NULL         |           1 |      0 |
+|  86 | Sedgwick    | Sandi     | ssedgwick2d@nationalgeographic.com | NULL         | 294-941-7851 |           1 |      1 |
+|  95 | Gueste      | Munroe    | mgueste2m@lycos.com                | NULL         | 667-409-0924 |           1 |      1 |
+|  96 | Phillp      | Hilary    | hphillp2n@last.fm                  | 427-367-3698 | 888-746-0637 |           1 |      1 |
+| 101 | Simon       | Angel     | asimon@docentes.frgp.utn.edu.ar    | NULL         | 444-618-8458 |           1 |      1 |
+| 102 | Lara        | Brian     | blara@docentes.frgp.utn.edu.ar     | NULL         | 455-618-8458 |           1 |      1 |
+| 103 | Kloster     | Daniel    | dkloster@docentes.frgp.utn.edu.ar  | NULL         | 466-618-8458 |           1 |      1 |
++-----+-------------+-----------+------------------------------------+--------------+--------------+-------------+--------+
+
 
 4
 
@@ -524,17 +552,32 @@
 
 5
 
-+-----------+----------+
-| Apellidos | Nombres  |
-+-----------+----------+
-| Sollom    | Minetta  |
-| Inchley   | Melessa  |
-| Dallison  | Aguistin |
-| O'Scanlan | Orin     |
-| Letch     | Candy    |
-| Taplin    | Kym      |
-| Lawrey    | Dickie   |
-+-----------+----------+
++-------------+------------+
+|  Apellidos  |  Nombres   |
++-------------+------------+
+| Sreenan     | Kellsie    |
+| Sollom      | Minetta    |
+| Braffington | Mariquilla |
+| Inchley     | Melessa    |
+| Congram     | Fancie     |
+| Dallison    | Aguistin   |
+| O'Scanlan   | Orin       |
+| Charlewood  | Minna      |
+| Letch       | Candy      |
+| Dowry       | Abbey      |
+| Shury       | Craggie    |
+| Taplin      | Kym        |
+| Skipper     | Devland    |
+| Terzi       | Mychal     |
+| O'Bradden   | Joyan      |
+| Harms       | Vail       |
+| Boddymead   | Greta      |
+| Lawrey      | Dickie     |
+| Simon       | Angel      |
+| Lara        | Brian      |
+| Kloster     | Daniel     |
++-------------+------------+
+
 
 6
 

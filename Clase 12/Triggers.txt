@@ -1,0 +1,8 @@
+Hacer un trigger que al eliminar un cliente realice la baja lógica del mismo en su lugar.
+
+Hacer un trigger que al ingresar una venta verifique que la cantidad de entradas por adquirir, sumadas a las anteriormente compradas para dicha función, no superen la capacidad de la sala.
+
+Hacer un trigger que al ingresar una función verifique que el horario de la misma no sea anterior a la fecha de estreno mundial de la película. También, debe verificar que la función no se superponga con otra que se proyecte en la misma sala.
+
+Hacer un trigger que al modificar una venta no permita cambiar ningún campo salvo la cantidad de unidades. El cambio sólo admitirá que la cantidad de unidades sea inferior a la cantidad inicial. Debe recalcular el importe de la venta.
+
